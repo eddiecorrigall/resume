@@ -39,8 +39,8 @@ https://github.com/eddiecorrigall[@ *GitHub*] +
 
 [align="center",cols="3",width="90%",options="header"]
 |====
-|[big]#*Development*#|[big]#*Language*#|[big]#*Framework*#
-|Big Data|PigLatin, SQL|Apache Hadoop, CSVKit
+|[big]#*Development*#|[big]#*Language/Technology*#|[big]#*Framework*#
+|Database|MondgoDB, Pig Latin, HDFS, SQL|Apache Hadoop, Pandas, Mongoose, MySQL, IBM DB2, DBLite, SQLite
 |Machine Learning|Python, MATLAB|MatplotLib, NumPy, Pandas, OpenCV, SciKit Learn, HIPS Spearmint
 |Web|JavaScript EC5|jQuery, NodeJS, ExpressJS, PassportJS
 |Mobile|Java|Android SDK, OpenGL
