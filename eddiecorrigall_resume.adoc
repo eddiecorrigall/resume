@@ -4,7 +4,7 @@
 
 NOTE: Last updated on *{docdate}*
 
-== Summary
+== SUMARY
 I graduated from the University of Waterloo in 2014 with Honours Bachelor of Computer Science (BCS).
 
 I've learned a lot about the Ad Tech Industry this year while working at Eyereturn Marketing Inc. I used Apache Hadoop to operate on and house a lot of data and aggregate the important info into SQL servers for applications.
@@ -15,9 +15,9 @@ Now I'm looking to be part of a team, have a well defined role, and ownership ov
 
 * Mining big data using Apache Hadoop and Apache PigLatin
 Data analytics using Python Pandas, NumPy, SciKit Learn
-* Real-time analytic software using C# WPF
-* Crowd sourcing application using Amazon Web Services (AWS) Mechanical Turk
-* Custom implementation of I2C and LPC in C for an Embedded security platform
+* Real-time analytic software using C# Windows Presentation Foundation (WPF)
+* Crowd sourcing application using Amazon Web Services (AWS) Mechanical Turk (mTurk)
+* Custom implementation of I2C bus and LPC bus in C for an Embedded security platform
 * Web portal written in SQL, PHP, JavaScript for team knowledge tracking application
 
 === Side Projects
@@ -40,11 +40,11 @@ https://github.com/eddiecorrigall[@ *GitHub*] +
 [align="center",cols="3",width="90%",options="header"]
 |====
 |[big]#*Development*#|[big]#*Language/Technology*#|[big]#*Framework*#
-|Database|MondgoDB, Pig Latin, HDFS, SQL|Apache Hadoop, Pandas, Mongoose, MySQL, IBM DB2, DBLite, SQLite
-|Machine Learning|Python, MATLAB|MatplotLib, NumPy, Pandas, OpenCV, SciKit Learn, HIPS Spearmint
-|Web|JavaScript EC5|jQuery, NodeJS, ExpressJS, PassportJS
-|Mobile|Java|Android SDK, OpenGL
+|Mobile|Java|Android SDK, OpenTok, OpenGL
+|Web|JavaScript EC5|jQuery, NodeJS, ExpressJS, PassportJS, ReactJS
 |Testing|Java, JavaScript EC5|Jasmine, JUnit
+|Database|Pig Latin, HDFS, SQL, NoSQL|Apache Hadoop, Pandas, Mongoose, MySQL, IBM DB2, DBLite, SQLite
+|Machine Learning|Python, MATLAB|MatplotLib, NumPy, Pandas, OpenCV, SciKit Learn, HIPS Spearmint
 |====
 
 == EDUCATION
@@ -123,7 +123,7 @@ Pitney Bowes +
 
 *Environment:* Eclipse, C / C++, Interrupt Service Routine, GPIO, LPC bus, I2C bus, Linux
 
-* Developed prototype facilitating core cryptographic products with guidence from MIT electrical engineers
+* Developed prototype facilitating core cryptographic products with guidance from MIT electrical engineers
 
 * Utilized interrupt service routine and non-blocking functions in the development of a finite state machine (FSM) written in C to drive Low-Pin Count (LPC) bus over GPIO
 
