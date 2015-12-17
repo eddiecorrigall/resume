@@ -4,6 +4,13 @@
 
 NOTE: Last updated on *{docdate}*
 
+== CONTACT
+1-226-606-2477 +
+Yonge and Eglinton, Toronto, ON +
+mailto:eddiecorrigall@gmail.com[] +
+https://linkedin.com/in/eddiecorrigall[@ *LinkedIn*],
+https://github.com/eddiecorrigall[@ *GitHub*] +
+
 == SUMARY
 I graduated from the University of Waterloo in 2014 with Honours Bachelor of Computer Science (BCS).
 
@@ -27,13 +34,6 @@ I have many side projects, some of which are farther along than others. These pr
 === What I'm looking to do next
 
 My internships at the University of Waterloo allowed me to pursue development opportunities within many unique industries. I need to now focus my energy on a career path that will utilize my computer science background and provide me with desirable experience. I want to get involved with big projects with an experienced team leader. I have a strong desire to work with a mobile, backend or frontend team to deliver quality products and services to happy customers.
-
-== CONTACT
-1-226-606-2477 +
-Yonge and Eglinton, Toronto, ON +
-mailto:eddiecorrigall@gmail.com[] +
-https://linkedin.com/in/eddiecorrigall[@ *LinkedIn*],
-https://github.com/eddiecorrigall[@ *GitHub*] +
 
 == SKILLS
 
