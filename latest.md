@@ -59,14 +59,28 @@ A particular project of mine that has had success is [xlsx-populate](https://git
 ## PROFESSIONAL EXPERIENCE
 
 ### Unata Inc., Toronto, Ontario
+#### Platform Engineer
+February 2017 -- *present*
+
+*Environment:* Python, PyTest, Flask, SQLAlchemy, Alembic, Postgres, Redis, Redis Queue, Memcached, Supervisor, Ansible, Bash, Tmux, Vim, Git, SOAP, REST API
+
+* Implemented new features and services for retailer partners
+
+* Transformed existing production database using alembic migrations
+
+* Trained and mentored new engineers
+
+* Developed traning, deploy, and production setup manuals
+
 #### Integration Integrator
 January 2016 -- February 2017
 
-*Environment:* Python, SQLAlchemy, Supervisor, JIRA, Postgresql, Redis, Redis Queue, Ansible, Bash, Tmux, Vim, Git, SOAP, REST API
+*Environment:* Python, SQLAlchemy, Alembic, Postgres, Redis, Redis Queue, Memcached, Supervisor, Ansible, Bash, Tmux, Vim, Git, SOAP, REST API
 
-* Currently working as a Jack of all trades -- a mix of QA, DevOps, and Integration engineering
+* A Jack of all trades engineer -- a mix of QA, DevOps, and Integration engineering
 
-* Handling all technical aspects of client services for designated grocery retailer, including:
+* Secured long term revenue with our partnership with retailer grocers by handling all technical aspects of client services, including:
+    * configuration and setup of production environments for new partners
     * on-call technical support for disaster recovery
     * providing hot-fix solutions to comply with service-level agreement
     * first to assess and troubleshoot issues affecting customer eCommerce experience
