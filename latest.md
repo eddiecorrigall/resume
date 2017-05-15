@@ -64,7 +64,7 @@ February 2017 -- *present*
 
 *Environment:* Python, PyTest, Flask, SQLAlchemy, Alembic, Postgres, Redis, Redis Queue, Memcached, Supervisor, Ansible, Bash, Tmux, Vim, Git, SOAP, REST API
 
-* Implemented new features and services for customer experience and to secure online shopping
+* Implemented new features and services for customer experience and platform security
 
 * Transformed existing production database using alembic migrations
 
