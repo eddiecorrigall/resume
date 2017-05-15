@@ -1,7 +1,7 @@
 # Eddie Corrigall
 [eddiecorrigall@gmail.com](mailto:eddiecorrigall@gmail.com) | [@ *LinkedIn*](https://linkedin.com/in/eddiecorrigall) | [@ *GitHub*](https://github.com/eddiecorrigall)
 
-Yonge and Eglinton, Toronto, ON
+St Clair Avenue, Toronto, ON
 
 1-226-606-2477
 
