@@ -64,13 +64,13 @@ February 2017 -- *present*
 
 *Environment:* Python, PyTest, Flask, SQLAlchemy, Alembic, Postgres, Redis, Redis Queue, Memcached, Supervisor, Ansible, Bash, Tmux, Vim, Git, SOAP, REST API
 
-* Implemented new features and services for retailer partners
+* Implemented new features and services for customer experience and to secure online shopping
 
 * Transformed existing production database using alembic migrations
 
 * Trained and mentored new engineers
 
-* Developed traning, deploy, and production setup manuals
+* Wrote deploy guide, training manual, and production setup instructions
 
 #### Integration Integrator
 January 2016 -- February 2017
