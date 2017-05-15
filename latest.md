@@ -6,7 +6,7 @@ St Clair Avenue, Toronto, ON
 1-226-606-2477
 
 ## SUMMARY
-I'm looking to be part of a team, have a well defined role, and ownership over a product or service. My long-term goal is to focus on more traditional software development that will include a release cycle, test-driven development and teamwork.
+I'm looking to be part of a team, have a well defined role, and ownership over a product or service. When I spend time learning, its to become an expert at whatever I might be resonsible for, so that I can help train and foster the working environment surounding me.
 
 I want to get involved with big projects and work with an experienced team leader. I have a strong desire to work with a mobile, backend or frontend team to deliver quality products and services to happy customers.
 
