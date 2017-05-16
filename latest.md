@@ -72,7 +72,7 @@ February 2017 -- *present*
 
 * Wrote deploy guide, training manual, and production setup instructions
 
-#### Integration Integrator
+#### Data Engineer
 January 2016 -- February 2017
 
 *Environment:* Python, SQLAlchemy, Alembic, Postgres, Redis, Redis Queue, Memcached, Supervisor, Ansible, Bash, Tmux, Vim, Git, SOAP, REST API
@@ -118,7 +118,7 @@ April 2014 -- August 2014
 * Extracted and designed feature sets from heart signals to model macro-nutrient and caloric intake
 
 ### ON Semiconductors, Waterloo, Ontario
-### Software Developer (Intern)
+#### Software Developer (Intern)
 May 2012 -- December 2012
 
 *Environment:* C# .NET, Visual C#, Microsoft Visual Studios, Window Presentation Foundation, Eclipse, MATLAB, Amazon Web Services: EC2, Mechanical Turk
