@@ -5,9 +5,11 @@ St Clair Avenue, Toronto, ON
 
 1-226-606-2477
 
+## INTRODUCTION
+
 <details><summary>Expand summary</summary><p>
 
-## SUMMARY
+### SUMMARY
 
 I'm looking to be part of a team, have a well defined role, and ownership over a product or service. When I spend time learning, its to become an expert at whatever I might be resonsible for, so that I can help train and foster the working environment surounding me.
 
@@ -15,7 +17,7 @@ I want to get involved with big projects and work with an experienced team leade
 
 My personality suits most. I'm a social kind of developer and easy to work with. I'm open to new ideas and like to share my opinions when I see an opportunity for improvement and efficiency within an organization.
 
-### What I've worked on in the past
+#### What I've worked on in the past
 * Developed product mapping solution for many-to-many relationship using a connected sub-components and breadth-first search algorithm
 
 * Mining big data using Apache Hadoop and Apache PigLatin
@@ -30,7 +32,7 @@ My personality suits most. I'm a social kind of developer and easy to work with.
 
 * Web portal written in SQL, PHP, JavaScript for team knowledge tracking application
 
-### Side projects
+#### Side projects
 I have many side projects, these projects get me involved in technologies to strengthen my abilities and satisfy my ambition for knowledge. If you check out my GitHub account, there are plenty of working examples of my development abilities, so I encourage you to explore!
 
 A particular project of mine that has had success is [xlsx-populate](https://github.com/dtjohnson/xlsx-populate), where I have been able to collaborate online to create a NodeJS Excel plugin.
@@ -40,13 +42,13 @@ A particular project of mine that has had success is [xlsx-populate](https://git
 
 <details><summary>Expand education</summary><p>
 
-## EDUCATION
+### EDUCATION
 
-### University of Waterloo, Waterloo, Ontario
+#### University of Waterloo, Waterloo, Ontario
 
 *Honours Bachelor of Computer Science with Co-op*
 
-### Coursera.org
+#### Coursera.org
 * Programming Mobile Applications for Android Handheld Systems: Part 1
 
 * Programming Mobile Applications for Android Handheld Systems: Part 2
@@ -57,7 +59,7 @@ A particular project of mine that has had success is [xlsx-populate](https://git
 
 * R Programming
 
-### Udemy.com
+#### Udemy.com
 * JavaScript: Understanding the Wierd Parts
 
 * Learn and Understand NodeJS
