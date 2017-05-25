@@ -1,7 +1,9 @@
 # Eddie Corrigall
 
 [eddiecorrigall@gmail.com](mailto:eddiecorrigall@gmail.com) | [@ *LinkedIn*](https://linkedin.com/in/eddiecorrigall) | [@ *GitHub*](https://github.com/eddiecorrigall)
+
 St Clair Avenue, Toronto, ON
+
 +1-226-606-2477
 
 ## INTRODUCTION
