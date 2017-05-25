@@ -5,7 +5,10 @@ St Clair Avenue, Toronto, ON
 
 1-226-606-2477
 
+<details><summary>Expand summary</summary><p>
+
 ## SUMMARY
+
 I'm looking to be part of a team, have a well defined role, and ownership over a product or service. When I spend time learning, its to become an expert at whatever I might be resonsible for, so that I can help train and foster the working environment surounding me.
 
 I want to get involved with big projects and work with an experienced team leader. I have a strong desire to work with a mobile, backend or frontend team to deliver quality products and services to happy customers.
@@ -32,6 +35,11 @@ I have many side projects, these projects get me involved in technologies to str
 
 A particular project of mine that has had success is [xlsx-populate](https://github.com/dtjohnson/xlsx-populate), where I have been able to collaborate online to create a NodeJS Excel plugin.
 
+<!-- END OF SUMMARY -->
+</p></details>
+
+<details><summary>Expand education</summary><p>
+
 ## EDUCATION
 
 ### University of Waterloo, Waterloo, Ontario
@@ -55,6 +63,9 @@ A particular project of mine that has had success is [xlsx-populate](https://git
 * Learn and Understand NodeJS
 
 * Build Web Apps with React JS and Flux
+
+<!-- END OF EDUCATION -->
+</p></details>
 
 ## PROFESSIONAL EXPERIENCE
 
