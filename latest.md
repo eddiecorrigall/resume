@@ -77,7 +77,7 @@ January 2016 -- February 2017
 
 *Environment:* Python, SQLAlchemy, Alembic, Postgres, Redis, Redis Queue, Memcached, Supervisor, Ansible, Bash, Tmux, Vim, Git, SOAP, REST API
 
-* A Jack of all trades engineer -- a mix of QA, DevOps, and Integration engineering
+* A mix of QA, DevOps, and Integration engineering
 
 * Secured long term revenue with our partnership with retailer grocers by handling all technical aspects of client services, including:
     * configuration and setup of production environments for new partners
@@ -92,7 +92,7 @@ January 2016 -- February 2017
 * Improving existing integration software by building tools to improve insight on platform operations and increase efficiency within the partner success team
 
 ### EyeReturn Marketing Inc., Toronto, Ontario
-#### Data Scientist
+#### Data Analyst
 February 2015 -- September 2015
 
 *Environment:* Hadoop, Pig Latin, Jython, HIVE, MySQL, MS SQL, JIRA, Confluence, Pentaho, BIRT
