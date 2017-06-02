@@ -118,7 +118,7 @@ February 2015 -- September 2015
 * Managed ad campaigns, increased performance metrics and wrote final reports for clients
 
 ### AIRO Health, Kitchener, Ontario
-#### Database Analyst (Intern)
+#### Database Analyst
 April 2014 -- August 2014
 
 *Environment:* Python, NumPy, Matplotlib, Pandas, HDF5, SciKit Learn, HIPS Spearmint, MIT StarCluster, Amazon Web Services EC2, Linux
