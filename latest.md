@@ -14,7 +14,7 @@ St Clair Avenue, Toronto, ON
 
 I'm looking to be part of a team, have a well defined role, and ownership over a product or service. When I spend time learning, its to become an expert at whatever I might be resonsible for, so that I can help train and foster the working environment surounding me.
 
-I want to get involved with big projects and work with an experienced team leader. I have a strong desire to work with a mobile, backend or frontend team to deliver quality products and services to happy customers.
+I want to get involved with big projects and work with experienced people. I have a strong desire to work with a mobile, backend or frontend team to deliver quality products and services to happy customers.
 
 My personality suits most. I'm a social kind of developer and easy to work with. I'm open to new ideas and like to share my opinions when I see an opportunity for improvement and efficiency within an organization.
 
@@ -107,7 +107,7 @@ January 2016 -- February 2017
 
 ### EyeReturn Marketing Inc., Toronto, Ontario
 #### Data Analyst
-February 2015 -- September 2015
+February 2015 -- December 2015
 
 *Environment:* Hadoop, Pig Latin, Jython, HIVE, MySQL, MS SQL, JIRA, Confluence, Pentaho, BIRT
 
