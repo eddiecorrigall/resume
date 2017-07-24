@@ -38,8 +38,7 @@ I have many side projects, these projects get me involved in technologies to str
 
 A particular project of mine that has had success is [xlsx-populate](https://github.com/dtjohnson/xlsx-populate), where I have been able to collaborate online to create a NodeJS Excel plugin.
 
-<!-- END OF SUMMARY -->
-</p></details>
+<!-- END OF SUMMARY --></p></details>
 
 <details><summary>Expand education</summary><p>
 
@@ -67,8 +66,7 @@ A particular project of mine that has had success is [xlsx-populate](https://git
 
 * Build Web Apps with React JS and Flux
 
-<!-- END OF EDUCATION -->
-</p></details>
+<!-- END OF EDUCATION --></p></details>
 
 ## PROFESSIONAL EXPERIENCE
 
