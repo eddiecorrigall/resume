@@ -12,13 +12,15 @@ St Clair Avenue, Toronto, ON
 
 ### SUMMARY
 
-I'm looking to be part of a team, have a well defined role, and ownership over a product or service. When I spend time learning, its to become an expert at whatever I might be resonsible for, so that I can help train and foster the working environment surounding me.
+I'm looking to be part of a team, have a well defined role, and ownership over a product or service. When I spend time learning, its to become an expert at whatever I might be responsible for, so that I can help train and foster the working environment surrounding me.
 
-I want to get involved with big projects and work with experienced people. I have a strong desire to work with a mobile, backend or frontend team to deliver quality products and services to happy customers.
+I want to get involved with big projects and work with passionate people. I have a strong desire to work with a mobile, backend or frontend team to deliver quality products and services to happy customers.
 
 My personality suits most. I'm a social kind of developer and easy to work with. I'm open to new ideas and like to share my opinions when I see an opportunity for improvement and efficiency within an organization.
 
 #### What I've worked on in the past
+* Rewrote an ecommerce offer service to support 3rd party integration and in-house couponing
+
 * Developed product mapping solution for many-to-many relationship using a connected sub-components and breadth-first search algorithm
 
 * Mining big data using Apache Hadoop and Apache PigLatin
@@ -34,7 +36,7 @@ My personality suits most. I'm a social kind of developer and easy to work with.
 * Web portal written in SQL, PHP, JavaScript for team knowledge tracking application
 
 #### Side projects
-I have many side projects, these projects get me involved in technologies to strengthen my abilities and satisfy my ambition for knowledge. If you check out my GitHub account, there are plenty of working examples of my development abilities, so I encourage you to explore!
+I have many side projects, these projects get me involved in technologies to strengthen my abilities and satisfy my ambition for knowledge. Some of them are publicly available on my github account.
 
 A particular project of mine that has had success is [xlsx-populate](https://github.com/dtjohnson/xlsx-populate), where I have been able to collaborate online to create a NodeJS Excel plugin.
 
