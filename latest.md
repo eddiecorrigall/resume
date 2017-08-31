@@ -4,8 +4,6 @@
 
 St Clair Avenue, Toronto, ON
 
-+1-226-606-2477
-
 ## INTRODUCTION
 
 <details><summary>Expand summary</summary><p>
