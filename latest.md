@@ -2,7 +2,7 @@
 
 [eddiecorrigall@gmail.com](mailto:eddiecorrigall@gmail.com) | [@ *LinkedIn*](https://linkedin.com/in/eddiecorrigall) | [@ *GitHub*](https://github.com/eddiecorrigall)
 
-St Clair Avenue, Toronto, ON
+St Clair Avenue W, Toronto, ON
 
 ## INTRODUCTION
 
@@ -17,6 +17,14 @@ I want to get involved with big projects and work with passionate people. I have
 My personality suits most. I'm a social kind of developer and easy to work with. I'm open to new ideas and like to share my opinions when I see an opportunity for improvement and efficiency within an organization.
 
 #### What I've worked on in the past
+* Stabilized and sped up deployments -- Reduced failure rate and enabling business hour deployments even during peak traffic
+
+* Improved geolocation accuracy; Migrated geolocation services from MaxMind to IP2Location without modifying platform or database schema, now supporting 
+
+* Report authoring, a core analytics feature, to allow customers to create segmentation reports
+
+* Lead developer on team to refactor web frontend in 2018-Q4 to deliver unified experience across company
+
 * Rewrote an ecommerce offer service to support 3rd party integration and in-house couponing
 
 * Developed product mapping solution for many-to-many relationship using a connected sub-components and breadth-first search algorithm
@@ -36,7 +44,7 @@ My personality suits most. I'm a social kind of developer and easy to work with.
 #### Side projects
 I have many side projects, these projects get me involved in technologies to strengthen my abilities and satisfy my ambition for knowledge. Some of them are publicly available on my github account.
 
-A particular project of mine that has had success is [xlsx-populate](https://github.com/dtjohnson/xlsx-populate), where I have been able to collaborate online to create a NodeJS Excel plugin.
+A particular project of mine that has had success is [xlsx-populate](https://github.com/dtjohnson/xlsx-populate), where I have been able to collaborate online to create a NodeJS Excel framework.
 
 <!-- END OF SUMMARY --></p></details>
 
@@ -59,20 +67,38 @@ A particular project of mine that has had success is [xlsx-populate](https://git
 
 * R Programming
 
-#### Udemy.com
-* JavaScript: Understanding the Wierd Parts
+#### AWS Certified
+* AWS Certified Developer - Associate 2018 (passed with 94%)
 
-* Learn and Understand NodeJS
-
-* Build Web Apps with React JS and Flux
+* AWS Certified Solutions Architect - Associate 2019 (in progress)
 
 <!-- END OF EDUCATION --></p></details>
 
 ## PROFESSIONAL EXPERIENCE
 
-### Unata Inc., Toronto, Ontario
+### Acquia, Toronto, Ontario
+#### Software Engineer
+August 2017 -- *present*
+
+*Environment:* Java, Liquibase, Maven, CloudFormation, EC2, ElasticCache, Redshift, Data Pipelines, RDS, DynamoDB, Route53, Git
+
+* AWS Certified Developer - Associate 2018, see Education section.
+
+* Decoupled monolithic deploy: increase stability and speed so that it can be done even at peak traffic peak
+
+* Resolved database throttling in Rest API: identified problem using thread dump, found a short term solution, helped plan and coordinate database migration
+
+* Led UI/UX initiative to enhance user experience
+
+* Led security initiative to overhaul AWS resource access
+
+* Wrote core feature, report authoring, to provide customers custom analytics
+
+* Improved existing geo-location integration with no service interruption
+
+### Unata Inc. (Acquired by Instacart), Toronto, Ontario
 #### Platform Engineer
-February 2017 -- *present*
+February 2017 -- August 2017
 
 *Environment:* Python, PyTest, Flask, SQLAlchemy, Alembic, Postgres, Redis, Redis Queue, Memcached, Supervisor, Ansible, Bash, Tmux, Vim, Git, SOAP, REST API
 
