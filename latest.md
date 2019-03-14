@@ -80,7 +80,7 @@ A particular project of mine that has had success is [xlsx-populate](https://git
 #### Software Engineer
 August 2017 -- *present*
 
-*Environment:* Java, Liquibase, Maven, CloudFormation, EC2, ElastiCache, Redshift, Data Pipelines, RDS, DynamoDB, Route53, Git
+*Environment:* Agile, Scrum, Git, Java, Liquibase, Maven, CloudFormation, EC2, ElastiCache, Redshift, Data Pipelines, RDS, DynamoDB, Route53
 
 * AWS Certified Developer - Associate 2018, see Education section
 
