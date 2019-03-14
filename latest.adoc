@@ -1,78 +1,117 @@
 = Eddie Corrigall
-:published_at: 2015-11-23
+:published_at: 2019-03-15
 :hp-tags: resume, university of waterloo, computer science, bachelor, eddie corrigall
 
 NOTE: Last updated on *{docdate}*
 
 == CONTACT
-Yonge and Eglinton, Toronto, ON +
+St Clair Avenue West, Toronto, ON +
 mailto:eddiecorrigall@gmail.com[] +
 https://linkedin.com/in/eddiecorrigall[@ *LinkedIn*],
 https://github.com/eddiecorrigall[@ *GitHub*] +
 
 == SUMARY
-I graduated from the University of Waterloo in 2014 with Honours Bachelor of Computer Science (BCS).
+I'm looking to be part of a team, have a well defined role, and ownership over a product or service. When I spend time learning, its to become an expert at whatever I might be responsible for, so that I can help train and foster the working environment surrounding me.
 
-I've learned a lot about the Ad Tech Industry this year while working at Eyereturn Marketing Inc. I used Apache Hadoop to operate on and house a lot of data and aggregate the important info into SQL servers for applications.
+I want to get involved with big projects and work with passionate people. I have a strong desire to work with a mobile, backend or frontend team to deliver quality products and services to happy customers.
 
-Now I'm looking to be part of a team, have a well defined role, and ownership over a product or service. My long-term goal is to focus on more traditional software development that will include a release cycle and teamwork.
+My personality suits most. I'm a social kind of developer and easy to work with. I'm open to new ideas and like to share my opinions when I see an opportunity for improvement and efficiency within an organization.
 
 === What I’ve worked on in the past
+* Stabilized and sped up deployments -- reduced failure rate and enabling business hour deployments even during peak traffic
+
+* Improved geolocation accuracy -- migrated geolocation services from MaxMind to IP2Location without downtime, modifying platform or database schema migration
+
+* Report authoring, a core analytics feature, to allow customers to create segmentation reports
+
+* Led team web frontend refactor to help deliver unified experience across company
+
+* Rewrote an ecommerce offer service to support 3rd party integration and in-house couponing to be vendor agnostic, easily maintained and faster
+
+* Developed product mapping solution for many-to-many relationship using a connected sub-components and breadth-first search algorithm
 
 * Mining big data using Apache Hadoop and Apache PigLatin
-Data analytics using Python Pandas, NumPy, SciKit Learn
+
+* Data analytics using Python Pandas, NumPy, SciKit Learn
+
 * Real-time analytic software using C# Windows Presentation Foundation (WPF)
+
 * Crowd sourcing application using Amazon Web Services (AWS) Mechanical Turk (mTurk)
-* Custom implementation of I2C bus and LPC bus in C for an Embedded security platform
+
+* Custom implementation of I2C bus and LPC bus in C for an embedded security platform
+
 * Web portal written in SQL, PHP, JavaScript for team knowledge tracking application
 
 === Side Projects
+I have many side projects, these projects get me involved in technologies to strengthen my abilities and satisfy my ambition for knowledge. Some of them are publicly available on my github account.
 
-I have many side projects, some of which are farther along than others. These projects get me involved in technologies to strengthen my abilities and satisfy my ambition for knowledge. If you check out my GitHub account, there are plenty of working examples of my development abilities, so I encourage you to explore!
-
-=== What I'm looking to do next
-
-My internships at the University of Waterloo allowed me to pursue development opportunities within many unique industries. I need to now focus my energy on a career path that will utilize my computer science background and provide me with desirable experience. I want to get involved with big projects with an experienced team leader. I have a strong desire to work with a mobile, backend or frontend team to deliver quality products and services to happy customers.
-
-== SKILLS
-
-[align="center",cols="3",width="90%",options="header"]
-|====
-|[big]#*Development*#|[big]#*Language/Technology*#|[big]#*Framework*#
-|Mobile|Java|Android SDK, OpenTok, OpenGL
-|Web|JavaScript EC5|jQuery, NodeJS, ExpressJS, PassportJS, ReactJS
-|Testing|Java, JavaScript EC5|Jasmine, JUnit
-|Database|Pig Latin, HDFS, SQL, NoSQL|Apache Hadoop, Pandas, Mongoose, MySQL, IBM DB2, DBLite, SQLite
-|Machine Learning|Python, MATLAB|MatplotLib, NumPy, Pandas, OpenCV, SciKit Learn, HIPS Spearmint
-|====
+A particular project of mine that has had success is https://github.com/dtjohnson/xlsx-populate[xlsx-populate], where I have been able to collaborate online to create a NodeJS Excel framework.
 
 == EDUCATION
-September 2008 -- May 2014 +
 Waterloo, Ontario +
 University of Waterloo +
 
 *Honours Bachelor of Computer Science with Co-op*
 
+=== AWS Training and Certifications
+* AWS Certified Developer - Associate 2018 (Verification # 9JZ0Y2GCJME4QRW9)
+
+* AWS Certified Solutions Architect - Associate 2019 (In-progress)
+
 === Coursera.org Courses
-
-==== Complete ====
 * Programming Mobile Applications for Android Handheld Systems: Part 1
-* Programming Mobile Applications for Android Handheld Systems: Part 2
-* The Data Scientist's Toolbox
-* R Programming
 
-==== In Progress ====
+* Programming Mobile Applications for Android Handheld Systems: Part 2
+
 * Programming Mobile Services for Android Handheld Systems: Communication
 
-=== Udemy.com Courses
+* The Data Scientist's Toolbox
 
-==== In Progress ====
-* JavaScript: Understanding the Wierd Parts
-* Learn and Understand NodeJS
-* Learn and Understand AngularJS
-* Build Web Apps with React JS and Flux
+* R Programming
 
 == PROFESSIONAL EXPERIENCE
+
+=== Software Engineer
+August 2017 -- _present_ +
+Toronto, Ontario +
+Acquia +
+
+*Environment:* Agile, Scrum, Git, Java, Liquibase, Maven, CloudFormation, EC2, ElastiCache, Redshift, Data Pipelines, RDS, DynamoDB, Route53
+
+* AWS Certified Developer - Associate 2018, see Education section
+
+* Decoupled monolithic deploy: increase stability and speed so that it can be done even at peak traffic peak
+
+* Resolved database throttling in Rest API: identified problem using thread dump, found a short term solution, helped plan and coordinate database migration
+
+* Led team web frontend refactor to help deliver unified experience across company
+
+* Led security initiative to overhaul AWS resource access
+
+* Wrote core feature, report authoring, to provide customers custom analytics
+
+* Improved existing geo-location integration with no service interruption
+
+=== Platform Engineer
+January 2016 -- August 2017 +
+Toronto, Ontario +
+Unata Inc. (Acquired by Instacart) +
+
+*Environment:* Python, PyTest, Flask, SQLAlchemy, Alembic, Postgres, Flask, Memcached, Redis, Redis Queue, Supervisor, Ansible, Vagrant, JIRA, SOAP, REST, bash, tmux, vim, git
+
+Began work as a mix of QA, DevOps, and Integration engineering. Transitioned into a new role in 2017 as a platform engineer focusing on feature development.
+
+Previously handled all technical aspects of client services,
+
+* on-call technical support for disaster recovery
+* providing hot-fix solutions to comply with service-level agreement
+* first to assess and troubleshoot issues affecting customer eCommerce experience
+* preparation and deployment of new software releases to staging and production environments
+* coordinating downtime and hardware upgrades for retailer environments
+
+Responsible for the implementation of data integration with 3rd parties and Unata platform to support new eCommerce features.
+
+Made improvements to existing integration software by building tools to gain insight on platform operations and increase efficiency within the partner success team.
 
 === Data Scientist
 February 2015 -- September 2015 +
@@ -82,7 +121,9 @@ EyeReturn Marketing +
 *Environment:* Hadoop, Pig Latin, Jython, HIVE, MySQL, MS SQL, JIRA, Confluence, Pentaho, BIRT
 
 * Wrote Hadoop Pig Latin processors as part of anti-fraud efforts
+
 * Took initiative to design and implement more efficient data science mining tools
+
 * Managed ad campaigns, increased performance metrics and wrote final reports for clients
 
 === Database Analyst
@@ -173,7 +214,7 @@ September 2009 – December 2009 +
 Guelph, Ontario, Canada +
 GeoSign / Moxy Media / TSAVO Media +
 
-Environment: C# .NET, ASP .NET, Log4Net, Microsoft Team Foundation Server, MS SQL Server, SOAP, FogBugz
+*Environment:* C# .NET, ASP .NET, Log4Net, Microsoft Team Foundation Server, MS SQL Server, SOAP, FogBugz
 
 * Used development expertise to maintain ASP .NET and C# web infrastructure
 

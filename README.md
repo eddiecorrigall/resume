@@ -10,14 +10,15 @@ apt-get install rubygems-integration
 
 # Install asciidoctor
 gem install asciidoctor
+gem install asciidoctor-pdf
 ```
 
 ## Generate Document
 
 ```{r, engine='bash', count_lines}
 # Generate HTML
-asciidoctor eddiecorrigall_resume.adoc
+asciidoctor latest.adoc
 
 # Generate PDF
-asciidoctor-pdf eddiecorrigall_resume.adoc
+asciidoctor-pdf latest.adoc
 ```
