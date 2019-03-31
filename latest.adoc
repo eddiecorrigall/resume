@@ -1,225 +1,144 @@
-= Eddie Corrigall
-:published_at: 2019-03-15
+== Edward Corrigall
 :hp-tags: resume, university of waterloo, computer science, bachelor, eddie corrigall
+:published_at: 2019-03-31
+:author: Eddie Corrigall
+:doctype: article
+:encoding: UTF-8
+:lang: en
+:theme: resume
+:icons: font
+:icon-set: af
 
-NOTE: Last updated on *{docdate}*
-
-== CONTACT
 St Clair Avenue West, Toronto, ON +
 mailto:eddiecorrigall@gmail.com[] +
 https://linkedin.com/in/eddiecorrigall[@ *LinkedIn*],
 https://github.com/eddiecorrigall[@ *GitHub*] +
 
-== SUMARY
-I'm looking to be part of a team, have a well defined role, and ownership over a product or service. When I spend time learning, its to become an expert at whatever I might be responsible for, so that I can help train and foster the working environment surrounding me.
+== Skills
+* deploying, migrating and managing Linux-based infrastructure
+* designing and implementing system tools, and customer products
+* scaling applications, performance tuning
+* automating using Ansible, Python, or shell scripting
 
-I want to get involved with big projects and work with passionate people. I have a strong desire to work with a mobile, backend or frontend team to deliver quality products and services to happy customers.
+[%header,cols=3*]
+|===
+|
+|Proficient
+|Familiar
 
-My personality suits most. I'm a social kind of developer and easy to work with. I'm open to new ideas and like to share my opinions when I see an opportunity for improvement and efficiency within an organization.
+|Development
+|Python, Java, Bash
+|Android, JavaScipt, HTML/CSS
 
-=== What I’ve worked on in the past
-* Stabilized and sped up deployments -- reduced failure rate and enabling business hour deployments even during peak traffic
+|Frameworks
+|Flask, GWT
+|Hibernate, SQLAlchemy
 
-* Improved geolocation accuracy -- migrated geolocation services from MaxMind to IP2Location without downtime, modifying platform or database schema migration
+|Tooling
+|Git, Ansible, Vagrant, Packer, IntelliJ
+|Alembic, Liquibase
 
-* Report authoring, a core analytics feature, to allow customers to create segmentation reports
+|Infrastructure
+|AWS: Redshift, DynamoDB, Kinesis, EC2
+|Postgres, Redis, Memcache
+|===
 
-* Led team web frontend refactor to help deliver unified experience across company
+== AWS Certifications
+[horizontal]
+AWS Certified Developer -- Associate 2018:: PSI Services LLC, License Verification #: 9JZ0Y2GCJME4QRW9
+AWS Certified Solutions Architect -- Associated 2019:: Preparing to take exam
 
-* Rewrote an ecommerce offer service to support 3rd party integration and in-house couponing to be vendor agnostic, easily maintained and faster
-
-* Developed product mapping solution for many-to-many relationship using a connected sub-components and breadth-first search algorithm
-
-* Mining big data using Apache Hadoop and Apache PigLatin
-
-* Data analytics using Python Pandas, NumPy, SciKit Learn
-
-* Real-time analytic software using C# Windows Presentation Foundation (WPF)
-
-* Crowd sourcing application using Amazon Web Services (AWS) Mechanical Turk (mTurk)
-
-* Custom implementation of I2C bus and LPC bus in C for an embedded security platform
-
-* Web portal written in SQL, PHP, JavaScript for team knowledge tracking application
-
-=== Side Projects
-I have many side projects, these projects get me involved in technologies to strengthen my abilities and satisfy my ambition for knowledge. Some of them are publicly available on my github account.
-
-A particular project of mine that has had success is https://github.com/dtjohnson/xlsx-populate[xlsx-populate], where I have been able to collaborate online to create a NodeJS Excel framework.
-
-== EDUCATION
-Waterloo, Ontario +
-University of Waterloo +
-
-*Honours Bachelor of Computer Science with Co-op*
-
-=== AWS Training and Certifications
-* AWS Certified Developer - Associate 2018 (Verification # 9JZ0Y2GCJME4QRW9)
-
-* AWS Certified Solutions Architect - Associate 2019 (In-progress)
-
-=== Coursera.org Courses
-* Programming Mobile Applications for Android Handheld Systems: Part 1
-
-* Programming Mobile Applications for Android Handheld Systems: Part 2
-
-* Programming Mobile Services for Android Handheld Systems: Communication
-
-* The Data Scientist's Toolbox
-
-* R Programming
+== Formal Education
+[horizontal]
+September 2008 -- April 2014:: Honours Bachelor of Computer Science with Co-op +
+University of Waterloo, Waterloo, Ontario
 
 == PROFESSIONAL EXPERIENCE
 
+7 years work experience as a software engineer.
+
 === Software Engineer
-August 2017 -- _present_ +
-Toronto, Ontario +
-Acquia +
+August 2017 -- _present_ (1 year 8 months) +
+*Acquia*, Toronto, Ontario
 
 *Environment:* Agile, Scrum, Git, Java, Liquibase, Maven, CloudFormation, EC2, ElastiCache, Redshift, Data Pipelines, RDS, DynamoDB, Route53
 
-* AWS Certified Developer - Associate 2018, see Education section
-
-* Decoupled monolithic deploy: increase stability and speed so that it can be done even at peak traffic peak
-
-* Resolved database throttling in Rest API: identified problem using thread dump, found a short term solution, helped plan and coordinate database migration
-
-* Led team web frontend refactor to help deliver unified experience across company
-
-* Led security initiative to overhaul AWS resource access
-
-* Wrote core feature, report authoring, to provide customers custom analytics
-
-* Improved existing geo-location integration with no service interruption
+* decoupled monolithic deploy: increase stability and speed so that it can be done even at peak traffic peak
+* resolved database throttling in Rest API: identified problem using thread dump, found a short term solution, helped plan and coordinate database migration
+* led team web frontend refactor to help deliver unified experience across company
+* led security initiative to overhaul AWS resource access
+* wrote core feature, report authoring, to provide customers custom analytics
+* improved existing geo-location integration with no service interruption
 
 === Platform Engineer
-January 2016 -- August 2017 +
-Toronto, Ontario +
-Unata Inc. (Acquired by Instacart) +
+January 2016 -- August 2017 (1 year 8 months) +
+*Instacart*, Toronto, Ontario
 
 *Environment:* Python, PyTest, Flask, SQLAlchemy, Alembic, Postgres, Flask, Memcached, Redis, Redis Queue, Supervisor, Ansible, Vagrant, JIRA, SOAP, REST, bash, tmux, vim, git
 
-Began work as a mix of QA, DevOps, and Integration engineering. Transitioned into a new role in 2017 as a platform engineer focusing on feature development.
-
-Previously handled all technical aspects of client services,
-
+* implemented rest api ecommerce features
+* optimized offers engine and added couponing feature
 * on-call technical support for disaster recovery
 * providing hot-fix solutions to comply with service-level agreement
 * first to assess and troubleshoot issues affecting customer eCommerce experience
 * preparation and deployment of new software releases to staging and production environments
 * coordinating downtime and hardware upgrades for retailer environments
 
-Responsible for the implementation of data integration with 3rd parties and Unata platform to support new eCommerce features.
-
-Made improvements to existing integration software by building tools to gain insight on platform operations and increase efficiency within the partner success team.
-
 === Data Scientist
-February 2015 -- September 2015 +
-Toronto, Ontario +
-EyeReturn Marketing +
+February 2015 -- December 2015 (1 year) +
+*EyeReturn Marketing*, Toronto, Ontario +
 
 *Environment:* Hadoop, Pig Latin, Jython, HIVE, MySQL, MS SQL, JIRA, Confluence, Pentaho, BIRT
 
-* Wrote Hadoop Pig Latin processors as part of anti-fraud efforts
+* wrote Hadoop Pig Latin processors as part of anti-fraud effort
+* took initiative to design and implement more efficient data science mining tools
+* managed ad campaigns, increased performance metrics and wrote final reports for clients
 
-* Took initiative to design and implement more efficient data science mining tools
+=== Internships
 
-* Managed ad campaigns, increased performance metrics and wrote final reports for clients
+2 years working experience in University of Waterloo co-operative program.
 
-=== Database Analyst
-April 2014 -- August 2014 +
-Kitchener, Ontario +
-AIRO Health +
+[%header,cols=6*]
+|===
+| Company
+| Location
+| Role
+| Starting
+| Timeframe
+| Performance Evaluation
 
-*Environment:* Python, NumPy, Matplotlib, Pandas, HDF5, SciKit Learn, HIPS Spearmint, MIT StarCluster, Amazon Web Services EC2, Linux
+| ON Semiconductors
+| Waterloo, Ontario
+| Software Developer
+| May 2012
+| 8 months
+| Very Good
 
-* Set foundation for all future development and machine learning by defining new database structures with HDF5 and utilizing Python library Pandas for large scale vector operations
+| Pitney Bowes
+| Shelton, Connecticut, USA
+| Embedded Software Engineer
+| September 2011
+| 4 months
+| Excellent
 
-* Worked with team to design robust heartbeat detector for the purpose of localizing high-quality beat intervals, cleaning signal and supporting graph analytics
+| Economical Insurance
+| Waterloo, Ontario
+| Web Developer
+| January 2011
+| 4 months
+| Excellent
 
-* Wrote Matplotlib graph analytic tools to gain insight into optical signals
+| Economical Insurance
+| Waterloo, Ontario
+| Web Developer
+| May 2010
+| 4 months
+| Excellent
 
-* Extracted and designed feature sets from heart signals to model macronutrient and caloric intake
-
-=== Software Developer
-May 2012 -- December 2012 +
-Waterloo, Ontario +
-ON Semiconductors +
-
-*Environment:* C# .NET, Visual C#, Microsoft Visual Studios, Window Presentation Foundation, Eclipse, MATLAB, Amazon Web Services: EC2, Mechanical Turk
-
-* Collaborated with software development team to meet product deadlines
-
-* Enabled field engineers to customize and configure ON Semiconductors real-time embedded platform technology
-
-* Instigated solution to reduce cost of certifying company algorithms using Amazon Mechanical Turk
-
-* Developed technical specifications for system development and implemented tools to measure quality of crowd source data using Principal Component Analysis
-
-=== Embedded Software Engineer
-September 2011 -- December 2011 +
-Shelton, Connecticut, USA +
-Pitney Bowes +
-
-*Environment:* Eclipse, C / C++, Interrupt Service Routine, GPIO, LPC bus, I2C bus, Linux
-
-* Developed prototype facilitating core cryptographic products with guidance from MIT electrical engineers
-
-* Utilized interrupt service routine and non-blocking functions in the development of a finite state machine (FSM) written in C to drive Low-Pin Count (LPC) bus over GPIO
-
-* Validated product reliability with test data to safeguard architecture and evaluate performance and reliability of systems implemented
-
-* Carried out the design and development of secure message level protocol utilizing newly implemented LPC driver for application-to-application communication between co-processors
-
-=== Web Developer
-January 2011 -- April 2011 +
-Waterloo, Ontario +
-The Economical Insurance Group / Economical Insurance +
-
-*Environment:* HTML5, CSS3, JavaScript, jQuery, Java, JUnit, JSP, J2EE, JDBC, Oracle, IBM DB2, IBM WebSEAL, RATIONAL ClearCase
-
-* Worked with small team to rewrite a key application for fire rating and territory management
-
-* Required to match existing application functionality by dissecting J2EE source code and IBM DB2 queries
-
-* Developed new broker service based, on existing software requirements
-
-* Applied test-driven development practices using JUnit
-
-* Practiced full stack development while relieving pressure from the Broker Support Team
-
-* Wrote IBM DB2 transactions to safeguard database from application failure
-
-=== Web Developer
-May 2010 -- August 2010 +
-Waterloo, Ontario, Canada +
-The Economical Insurance Group / Economical Insurance +
-
-*Environment:* PHP, Apache, JavaScript, jQuery UI, AJAX, JSON, HTML5, CSS3, Oracle, IBM DB2, IBM WebSEAL, VBA
-
-* Tasked with development of self-serving portal for employees to log their skill set and track team knowledge, strengths and weaknesses
-
-* Investigated use cases and documented web service requirements to develop application using JavaScript and PHP
-
-* Created database schema, wrote IBM DB2 queries, exposed data through custom JSON API and connected front-end via AJAX
-
-* Supported application using PHP back-end with a JavaScript interface designed using jQuery UI
-
-* Created and optimized content for web service using a variety of graphics and useful file formats to enable ease of access and processing for business leadership
-
-* Conducted tests, quality controls, and implemented secure practises
-
-=== Software Developer
-September 2009 – December 2009 +
-Guelph, Ontario, Canada +
-GeoSign / Moxy Media / TSAVO Media +
-
-*Environment:* C# .NET, ASP .NET, Log4Net, Microsoft Team Foundation Server, MS SQL Server, SOAP, FogBugz
-
-* Used development expertise to maintain ASP .NET and C# web infrastructure
-
-* Actively participated in bug-fixing tasks with FogBugz ticket tracking and Microsoft Team Foundation Server
-
-* Automated queries to notify finance and server team managers via email about critical changes in databases
-
-* Improved company financial data gathering by converting cross-company transactions to Simple Object Access Protocol (SOAP) jobs
+| TSAVO Media
+| Guelph, Ontario
+| Software Developer
+| September 2009
+| 4 months
+| Satisfactory
+|===
