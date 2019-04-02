@@ -32,7 +32,7 @@ https://github.com/eddiecorrigall[@ *GitHub*] +
 
 |Frameworks
 |Flask, GWT
-|Hibernate, SQLAlchemy
+|SQLAlchemy, Hibernate
 
 |Tooling
 |Git, Ansible, Vagrant, Packer, IntelliJ
@@ -48,12 +48,12 @@ https://github.com/eddiecorrigall[@ *GitHub*] +
 AWS Certified Developer -- Associate 2018:: PSI Services LLC, License Verification #: 9JZ0Y2GCJME4QRW9
 AWS Certified Solutions Architect -- Associated 2019:: Preparing to take exam
 
-== Formal Education
+== Education
 [horizontal]
 September 2008 -- April 2014:: Honours Bachelor of Computer Science with Co-op +
 University of Waterloo, Waterloo, Ontario
 
-== PROFESSIONAL EXPERIENCE
+== Professional Experience
 
 7 years work experience as a software engineer.
 
@@ -84,7 +84,7 @@ January 2016 -- August 2017 (1 year 8 months) +
 * preparation and deployment of new software releases to staging and production environments
 * coordinating downtime and hardware upgrades for retailer environments
 
-=== Data Scientist
+=== Data Analyst
 February 2015 -- December 2015 (1 year) +
 *EyeReturn Marketing*, Toronto, Ontario +
 
