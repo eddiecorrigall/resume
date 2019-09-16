@@ -9,16 +9,16 @@
 :icons: font
 :icon-set: af
 
-St Clair Avenue West, Toronto, ON +
+Yonge & St Clair, Toronto, ON +
 mailto:eddiecorrigall@gmail.com[] +
 https://linkedin.com/in/eddiecorrigall[@ *LinkedIn*],
 https://github.com/eddiecorrigall[@ *GitHub*] +
 
 == Skills
+* designing and implementing scalable products and productivity tooling
 * deploying, migrating and managing Linux-based infrastructure
-* designing and implementing system tools, and customer products
-* scaling applications, performance tuning
-* automating using Ansible, Python, or shell scripting
+* automating using CloudFormation, Docker, Ansible, Python, or shell scripting
+* scaling existing applications, performance tuning
 
 [%header,cols=3*]
 |===
@@ -28,18 +28,22 @@ https://github.com/eddiecorrigall[@ *GitHub*] +
 
 |Development
 |Python, Java, Bash
-|Android, JavaScipt, HTML/CSS
+|JavaScipt, HTML/CSS
 
-|Frameworks
-|Flask, GWT
+|Frontend Frameworks
+|React, GWT (Google Web Toolkit), Looker
+|Android SDK, jQuery, UI Kit, Bootstrap
+
+|Backend Frameworks
+|Flask, Spring
 |SQLAlchemy, Hibernate
 
 |Tooling
-|Git, Ansible, Vagrant, Packer, IntelliJ
+|Docker, Git, Ansible, Vagrant, Packer, IntelliJ
 |Alembic, Liquibase
 
 |Infrastructure
-|AWS: Redshift, DynamoDB, Kinesis, EC2
+|AWS: CloudFormation, Redshift, DynamoDB, Kinesis, EC2
 |Postgres, Redis, Memcache
 |===
 
@@ -57,18 +61,22 @@ University of Waterloo, Waterloo, Ontario
 
 7 years work experience as a software engineer.
 
+<<<
+
 === Software Engineer
-August 2017 -- _present_ (1 year 8 months) +
+August 2017 -- _present_ (2 years 2 months) +
 *Acquia*, Toronto, Ontario
 
-*Environment:* Agile, Scrum, Git, Java, Liquibase, Maven, CloudFormation, EC2, ElastiCache, Redshift, Data Pipelines, RDS, DynamoDB, Route53
+*Environment:* Agile, Scrum, Git, Java, Liquibase, Spring, Maven, CloudFormation, EC2, ElastiCache, Redshift, Data Pipelines, RDS, DynamoDB, Looker
 
-* decoupled monolithic deploy: increase stability and speed so that it can be done even at peak traffic peak
-* resolved database throttling in Rest API: identified problem using thread dump, found a short term solution, helped plan and coordinate database migration
+* rectified configuration to accomplish zero-downtime deploy of rest api auto-scaling group rolling update
+* decoupled monolithic deploy: increase stability and speed for deploy during peak traffic
+* resolved database throttling in rest api: identified problem using thread dump, mitigated with short term fix, helped plan and coordinate database migration as long term solution
 * led team web frontend refactor to help deliver unified experience across company
-* led security initiative to overhaul AWS resource access
-* wrote core feature, report authoring, to provide customers custom analytics
-* improved existing geo-location integration with no service interruption
+* led security initiative to overhaul aws resource access for read-only default, and elevate user access following two-factor authentication
+* wrote core produce feature: report authoring, to provide customers custom analytics -- delivered on time without issue even with set backs
+* improved existing geo-location integration for improved accuracy with no service interruption
+* built in-house tooling to improve developer and operation experience for team
 
 === Platform Engineer
 January 2016 -- August 2017 (1 year 8 months) +
@@ -83,6 +91,8 @@ January 2016 -- August 2017 (1 year 8 months) +
 * first to assess and troubleshoot issues affecting customer eCommerce experience
 * preparation and deployment of new software releases to staging and production environments
 * coordinating downtime and hardware upgrades for retailer environments
+
+<<<
 
 === Data Analyst
 February 2015 -- December 2015 (1 year) +
