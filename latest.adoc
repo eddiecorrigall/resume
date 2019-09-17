@@ -74,7 +74,7 @@ August 2017 -- _present_ (2 years 2 months) +
 * resolved database throttling in rest api: identified problem using thread dump, mitigated with short term fix, helped plan and coordinate database migration as long term solution
 * led team web frontend refactor to help deliver unified experience across company
 * led security initiative to overhaul aws resource access for read-only default, and elevate user access following two-factor authentication
-* wrote core produce feature: report authoring, to provide customers custom analytics -- delivered on time without issue even with set backs
+* wrote core product feature: report authoring, to provide customers custom analytics -- delivered on time without issue even with set backs
 * improved existing geo-location integration for improved accuracy with no service interruption
 * built in-house tooling to improve developer and operation experience for team
 
