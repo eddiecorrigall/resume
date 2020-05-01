@@ -1,6 +1,6 @@
 == Edward Corrigall
 :hp-tags: resume, university of waterloo, computer science, bachelor, eddie corrigall
-:published_at: 2019-03-31
+:published_at: 2020-04-28
 :author: Eddie Corrigall
 :doctype: article
 :encoding: UTF-8
@@ -20,37 +20,45 @@ https://github.com/eddiecorrigall[@ *GitHub*] +
 * automating using CloudFormation, Docker, Ansible, Python, or shell scripting
 * scaling existing applications, performance tuning
 
-[%header,cols=3*]
+[%header,cols=4*]
 |===
+
 |
-|Proficient
-|Familiar
+|★★★★★ (5/5)
+|★★★★☆ (4/5)
+|★★★☆☆ (3/5)
 
-|Development
+|Programming Languages
 |Python, Java, Bash
-|JavaScipt, HTML/CSS
-
-|Frontend Frameworks
-|React, GWT (Google Web Toolkit), Looker
-|Android SDK, jQuery, UI Kit, Bootstrap
+|JavaScipt
+|
 
 |Backend Frameworks
-|Flask, Spring
-|SQLAlchemy, Hibernate
-
-|Tooling
-|Docker, Git, Ansible, Vagrant, Packer, IntelliJ
-|Alembic, Liquibase
+|Flask
+|SQLAlchemy, Alembic, Hibernate, Liquibase
+|Spring, ExpressJS
 
 |Infrastructure
-|AWS: CloudFormation, Redshift, DynamoDB, Kinesis, EC2
-|Postgres, Redis, Memcache
+|CloudFormation, Kinesis, EC2, ECS, Docker
+|Redshift, DynamoDB, RDS, ElastiCache
+|Ansible, Vagrant, Packer
+
+|Analytics
+|Looker
+|CloudWatch
+|
+
+|Frontend Frameworks
+|GWT (Google Web Toolkit)
+|ReactJS
+|Android SDK, jQuery, UI Kit, Bootstrap
+
 |===
 
 == AWS Certifications
 [horizontal]
-AWS Certified Developer -- Associate 2018:: PSI Services LLC, License Verification #: 9JZ0Y2GCJME4QRW9
-AWS Certified Solutions Architect -- Associated 2019:: Preparing to take exam
+AWS Certified Developer -- Associate 2018:: PSI Services LLC, License Verification #: +
+9JZ0Y2GCJME4QRW9
 
 == Education
 [horizontal]
@@ -59,12 +67,28 @@ University of Waterloo, Waterloo, Ontario
 
 == Professional Experience
 
-7 years work experience as a software engineer.
+8+ years work experience as a software engineer.
 
 <<<
 
+=== Senior Software Engineer
+December 2019 -- _present_ (5 months) +
+*Naborly*, Toronto, Ontario
+
+*Environment:* RDS, Python, NodeJS, ExpressJS, MongoDB, Looker, Heroku, Stitch, Docker, Docker Compose
+
+* led scrum, planning, grooming and retro meetings more effectively
+* setup local development for team with docker compose
+* setup selenium end-to-end testing for team
+* built out new CloudFormation ECS service stack to support Heroku migration
+* helped build new api for rent guarentee claims service
+* secured AWS account with IAM stack groups and policies
+* reduced AWS costs from $250 to $40 USD per day
+* improved looker no-SQL to SQL integration with stitch by adding MongoDB indices
+* took initiative to overhaul Looker analytics
+
 === Software Engineer
-August 2017 -- _present_ (2 years 2 months) +
+August 2017 -- December 2019 (2 years 5 months) +
 *Acquia*, Toronto, Ontario
 
 *Environment:* Agile, Scrum, Git, Java, Liquibase, Spring, Maven, CloudFormation, EC2, ElastiCache, Redshift, Data Pipelines, RDS, DynamoDB, Looker
@@ -77,6 +101,8 @@ August 2017 -- _present_ (2 years 2 months) +
 * wrote core product feature: report authoring, to provide customers custom analytics -- delivered on time without issue even with set backs
 * improved existing geo-location integration for improved accuracy with no service interruption
 * built in-house tooling to improve developer and operation experience for team
+
+<<<
 
 === Platform Engineer
 January 2016 -- August 2017 (1 year 8 months) +
@@ -91,8 +117,6 @@ January 2016 -- August 2017 (1 year 8 months) +
 * first to assess and troubleshoot issues affecting customer eCommerce experience
 * preparation and deployment of new software releases to staging and production environments
 * coordinating downtime and hardware upgrades for retailer environments
-
-<<<
 
 === Data Analyst
 February 2015 -- December 2015 (1 year) +

@@ -3,15 +3,17 @@
 set -e
 
 if [ -z "$(command -v asciidoctor)" ]; then
-    gem install asciidoctor
+    brew install asciidoctor
 fi
+
+asciidoctor latest.adoc
 
 if [ -z "$(command -v asciidoctor-pdf)" ]; then
     gem install asciidoctor-pdf
 fi
 
-asciidoctor latest.adoc
 asciidoctor-pdf \
     -a pdf-stylesdir=themes \
     -a pdf-style=resume \
-    latest.adoc
+    -a pdf-fontsdir=fonts \
+        latest.adoc
