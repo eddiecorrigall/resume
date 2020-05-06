@@ -80,8 +80,8 @@ December 2019 -- _present_ (5 months) +
 * led scrum, planning, grooming and retro meetings more effectively
 * setup local development for team with docker compose
 * setup selenium end-to-end testing for team
-* built out new CloudFormation ECS service stack to support Heroku migration
-* helped build new api for rent guarentee claims service
+* built out new CloudFormation ECS service stack to migrate cloud providers
+* helped build new api for rent guarantee claims service
 * secured AWS account with IAM stack groups and policies
 * reduced AWS costs from $250 to $40 USD per day
 * improved looker no-SQL to SQL integration with stitch by adding MongoDB indices
@@ -93,12 +93,12 @@ August 2017 -- December 2019 (2 years 5 months) +
 
 *Environment:* Agile, Scrum, Git, Java, Liquibase, Spring, Maven, CloudFormation, EC2, ElastiCache, Redshift, Data Pipelines, RDS, DynamoDB, Looker
 
-* rectified configuration to accomplish zero-downtime deploy of rest api auto-scaling group rolling update
+* automated zero-downtime deploy of rest api auto-scaling group rolling update
 * decoupled monolithic deploy: increase stability and speed for deploy during peak traffic
-* resolved database throttling in rest api: identified problem using thread dump, mitigated with short term fix, helped plan and coordinate database migration as long term solution
+* resolved outstanding rest api database throttling
 * led team web frontend refactor to help deliver unified experience across company
-* led security initiative to overhaul aws resource access for read-only default, and elevate user access following two-factor authentication
-* wrote core product feature: report authoring, to provide customers custom analytics -- delivered on time without issue even with set backs
+* led security initiative to overhaul AWS resource access for read-only default, and elevate user access with multi-factor authentication
+* on-schedule completion of core product feature: report authoring, providing customers with custom analytics
 * improved existing geo-location integration for improved accuracy with no service interruption
 * built in-house tooling to improve developer and operation experience for team
 
