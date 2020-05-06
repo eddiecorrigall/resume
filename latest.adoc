@@ -45,7 +45,7 @@ https://github.com/eddiecorrigall[@ *GitHub*] +
 
 |Analytics
 |Looker
-|CloudWatch
+|Kinesis, CloudWatch
 |
 
 |Frontend Frameworks
@@ -91,7 +91,7 @@ December 2019 -- _present_ (5 months) +
 August 2017 -- December 2019 (2 years 5 months) +
 *Acquia*, Toronto, Ontario
 
-*Environment:* Agile, Scrum, Git, Java, Liquibase, Spring, Maven, CloudFormation, EC2, ElastiCache, Redshift, Data Pipelines, RDS, DynamoDB, Looker
+*Environment:* Agile, Scrum, Git, Java, Liquibase, Spring, Maven, CloudFormation, EC2, ElastiCache, Redshift, Kinesis, Data Pipelines, RDS, DynamoDB, Looker
 
 * automated zero-downtime deploy of rest api auto-scaling group rolling update
 * decoupled monolithic deploy: increase stability and speed for deploy during peak traffic
