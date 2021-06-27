@@ -1,6 +1,6 @@
 == Edward Corrigall
-:hp-tags: resume, university of waterloo, computer science, bachelor, eddie corrigall
-:published_at: 2020-04-28
+:hp-tags: resume, eddie, corrigall, university of waterloo, computer science, bachelor, software, developer, engineer
+:published_at: 2021-06-27
 :author: Eddie Corrigall
 :doctype: article
 :encoding: UTF-8
@@ -9,16 +9,17 @@
 :icons: font
 :icon-set: af
 
-Yonge & St Clair, Toronto, ON +
+Toronto, Ontario, Canada +
 mailto:eddiecorrigall@gmail.com[] +
 https://linkedin.com/in/eddiecorrigall[@ *LinkedIn*],
 https://github.com/eddiecorrigall[@ *GitHub*] +
 
 == Skills
 * designing and implementing scalable products and productivity tooling
-* deploying, migrating and managing Linux-based infrastructure
+* planning long term objectives and working with teams to accomplish goals
+* scaling existing products, performance tuning application and infrastructure
+* deploying, migrating and managing Linux-based systems
 * automating using CloudFormation, Docker, Ansible, Python, or shell scripting
-* scaling existing applications, performance tuning
 
 [%header,cols=4*]
 |===
@@ -40,7 +41,7 @@ https://github.com/eddiecorrigall[@ *GitHub*] +
 
 |Infrastructure
 |CloudFormation, Kinesis, EC2, ECS, Docker
-|Redshift, DynamoDB, RDS, ElastiCache
+|Redshift, DynamoDB, RDS, ElastiCache, ElasticSearch
 |Ansible, Vagrant, Packer
 
 |Analytics
@@ -49,9 +50,9 @@ https://github.com/eddiecorrigall[@ *GitHub*] +
 |
 
 |Frontend Frameworks
-|GWT (Google Web Toolkit)
+|Google Web Toolkit (GWT)
 |ReactJS
-|Android SDK, jQuery, UI Kit, Bootstrap
+|Android SDK, jQuery, UI Kit, VueJS, Bootstrap
 
 |===
 
@@ -69,11 +70,26 @@ University of Waterloo, Waterloo, Ontario
 
 8+ years work experience as a software engineer.
 
+4+ years experience with cloud services and certified Amazon Web Service professional.
+
 <<<
 
-=== Senior Software Engineer
-December 2019 -- _present_ (5 months) +
-*Naborly*, Toronto, Ontario
+=== Mark43
+July 2020 -- _present_ +
+*Senior Software Engineer*, Full-time remote
+
+*Environment:* MySQL, Java, Looker, Docker, Docker Compose, AWS, Redis, Kafka, ElasticSearch, ReactJS
+
+* code contributor of record management system team emergency services software
+* mitigated ElasticSearch database synchronization used by emergency responders across USA by increasing write-capacity and customer support tooling
+* published ElasticSearch request of change (RFC) describing risk, short term and long term objectives, along with strategy to decoupled into regional clusters
+* reduced ElasticSearch cluster capacity by roughly 40% (2TB+) without deleting any customer facing data
+* improved MySQL average query response time by optimizing internal notification service
+* overhauled State to Federal level report exports (NIBRS) to easily maintain code and rapidly on-board new customers
+
+=== Naborly
+December 2019 -- July 2020 (8 months) +
+*Senior Software Engineer*, Toronto, Ontario
 
 *Environment:* RDS, Python, NodeJS, ExpressJS, MongoDB, Looker, Heroku, Stitch, Docker, Docker Compose
 
@@ -83,13 +99,15 @@ December 2019 -- _present_ (5 months) +
 * built out new CloudFormation ECS service stack to migrate cloud providers
 * helped build new api for rent guarantee claims service
 * secured AWS account with IAM stack groups and policies
-* reduced AWS costs from $250 to $40 USD per day
+* reduced AWS costs from $250 to $40 USD per day -- saving company more than $75,000 USD per year
 * improved looker no-SQL to SQL integration with stitch by adding MongoDB indices
 * took initiative to overhaul Looker analytics
 
-=== Software Engineer
+<<<
+
+=== Acquia
 August 2017 -- December 2019 (2 years 5 months) +
-*Acquia*, Toronto, Ontario
+*Software Engineer*, Toronto, Ontario
 
 *Environment:* Agile, Scrum, Git, Java, Liquibase, Spring, Maven, CloudFormation, EC2, ElastiCache, Redshift, Kinesis, Data Pipelines, RDS, DynamoDB, Looker
 
@@ -99,14 +117,12 @@ August 2017 -- December 2019 (2 years 5 months) +
 * led team web frontend refactor to help deliver unified experience across company
 * led security initiative to overhaul AWS resource access for read-only default, and elevate user access with multi-factor authentication
 * on-schedule completion of core product feature: report authoring, providing customers with custom analytics
-* improved existing geo-location integration for improved accuracy with no service interruption
+* improved existing geo-location integration for improved accuracy with no service interruption -- saving company $100,000 USD per year
 * built in-house tooling to improve developer and operation experience for team
 
-<<<
-
-=== Platform Engineer
+=== Instacart
 January 2016 -- August 2017 (1 year 8 months) +
-*Instacart*, Toronto, Ontario
+*Platform Engineer*, Toronto, Ontario
 
 *Environment:* Python, PyTest, Flask, SQLAlchemy, Alembic, Postgres, Flask, Memcached, Redis, Redis Queue, Supervisor, Ansible, Vagrant, JIRA, SOAP, REST, bash, tmux, vim, git
 
@@ -118,9 +134,11 @@ January 2016 -- August 2017 (1 year 8 months) +
 * preparation and deployment of new software releases to staging and production environments
 * coordinating downtime and hardware upgrades for retailer environments
 
-=== Data Analyst
+<<<
+
+=== EyeReturn Marketing
 February 2015 -- December 2015 (1 year) +
-*EyeReturn Marketing*, Toronto, Ontario +
+*Data Analyst*, Toronto, Ontario +
 
 *Environment:* Hadoop, Pig Latin, Jython, HIVE, MySQL, MS SQL, JIRA, Confluence, Pentaho, BIRT
 
