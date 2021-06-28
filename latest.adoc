@@ -18,12 +18,10 @@ https://github.com/eddiecorrigall[@*GitHub*]
 * designing and implementing scalable products and productivity tooling
 * planning long term objectives and working with teams to accomplish goals
 * scaling existing products, performance tuning application and infrastructure
-* deploying, migrating and managing Linux-based systems
 * automating using CloudFormation, Docker, Ansible, Python, or shell scripting
+* deploying, migrating and managing Linux-based systems
 
----
-
-[%rotate,cols="4*",frame=none,grid=none]
+[%rotate,cols="4*",frame=none,grid=rows]
 |===
 
 |
@@ -32,24 +30,24 @@ https://github.com/eddiecorrigall[@*GitHub*]
 |★★★☆☆ (3/5)
 
 |*Infrastructure*
-|CloudFormation, Kinesis, EC2, ECS, Docker
-|Redshift, DynamoDB, RDS, ElastiCache, ElasticSearch
-|Ansible, Vagrant, Packer
+|CloudFormation, EC2, ECS, ElasticSearch
+|Redshift, DynamoDB, RDS, ElastiCache
+|Ansible, Vagrant, Packer, Docker
 
-|*Programming Languages*
+|*Languages*
 |Python, Java, Bash
 |JavaScipt
 |
 
-|*Backend Frameworks*
-|Flask
-|SQLAlchemy, Alembic, Hibernate, Liquibase
-|Spring, ExpressJS
+|*Backend*
+|Flask, SQLAlchemy, Alembic
+|Hibernate, Liquibase, Google Web Toolkit
+|Android SDK, Spring, ExpressJS
 
-|*Frontend Frameworks*
-|Google Web Toolkit (GWT)
+|*Frontend*
+|
 |ReactJS
-|Android SDK, jQuery, UI Kit, VueJS, Bootstrap
+|jQuery, UIkit, VueJS, Bootstrap
 
 |*Analytics*
 |Looker
@@ -60,14 +58,14 @@ https://github.com/eddiecorrigall[@*GitHub*]
 
 == Professional Experience
 
-8+ years work experience as a software engineer.
-
-4+ years experience with cloud services and certified Amazon Web Service professional.
+* 8+ years work experience as a software engineer.
+* 4+ years experience with cloud services.
+* certified Amazon Web Service professional.
 
 === Mark43
 *Senior Software Engineer*, July 2020 -- _present_
 
-*Environment:* MySQL, Java, Looker, Docker, Docker Compose, AWS, Redis, Kafka, ElasticSearch, ReactJS
+*Environment:* MySQL, Java, Looker, Docker, AWS, Redis, Kafka, ElasticSearch, ReactJS
 
 * code contributor of record management system team emergency services software
 * authored ElasticSearch request for change, describing: risk, mitigation steps, short and long term goals
@@ -75,14 +73,15 @@ https://github.com/eddiecorrigall[@*GitHub*]
 * improved MySQL average query response time by optimizing internal notification service
 * overhauled State to Federal report exports to easily maintain code and rapidly on-board new customers
 
+<<<
+
 === Naborly
 *Senior Software Engineer*, December 2019 -- July 2020
 
-*Environment:* RDS, Python, NodeJS, ExpressJS, MongoDB, Looker, Heroku, Stitch, Docker, Docker Compose
+*Environment:* RDS, Python, NodeJS, ExpressJS, MongoDB, Looker, Heroku, Stitch, Docker
 
 * led scrum, planning, grooming and retro meetings more effectively
-* setup local development for team with docker compose
-* setup selenium end-to-end testing for team
+* setup local development for team with docker compose and selenium end-to-end testing
 * built out new CloudFormation ECS service stack to migrate cloud providers
 * helped build new api for rent guarantee claims service
 * secured AWS account with IAM stack groups and policies
@@ -93,7 +92,7 @@ https://github.com/eddiecorrigall[@*GitHub*]
 === Acquia
 *Software Engineer*, August 2017 -- December 2019
 
-*Environment:* Agile, Scrum, Git, Java, Liquibase, Spring, Maven, CloudFormation, EC2, ElastiCache, Redshift, Kinesis, Data Pipelines, RDS, DynamoDB, Looker
+*Environment:* Java, Looker, CloudFormation, EC2, ElastiCache, Redshift, Kinesis, Data Pipelines, RDS, DynamoDB, Hibernate, Liquibase, Spring
 
 * automated zero-downtime deploy of rest api auto-scaling group rolling update
 * decoupled monolithic deploy: increase stability and speed for deploy during peak traffic
@@ -104,12 +103,10 @@ https://github.com/eddiecorrigall[@*GitHub*]
 * resolved outstanding rest api database throttling
 * built in-house tooling to improve developer and operation experience for team
 
-<<<
-
 === Instacart
 *Platform Engineer*, January 2016 -- August 2017
 
-*Environment:* Python, PyTest, Flask, SQLAlchemy, Alembic, Postgres, Flask, Memcached, Redis, Redis Queue, Supervisor, Ansible, Vagrant, JIRA, SOAP, REST, bash, tmux, vim, git
+*Environment:* Python, Flask, SQLAlchemy, Alembic, PostgreSQL, Flask, Memcached, Redis, Ansible, Vagrant
 
 * implemented rest api ecommerce features
 * optimized offers engine and added couponing feature
@@ -118,6 +115,8 @@ https://github.com/eddiecorrigall[@*GitHub*]
 * first to assess and troubleshoot issues affecting customer eCommerce experience
 * preparation and deployment of new software releases to staging and production environments
 * coordinating downtime and hardware upgrades for retailer environments
+
+<<<
 
 == Education
 [horizontal]
