@@ -10,9 +10,9 @@
 :icon-set: af
 
 Toronto, Ontario, Canada +
-mailto:eddiecorrigall@gmail.com[] +
-https://linkedin.com/in/eddiecorrigall[@ *LinkedIn*],
-https://github.com/eddiecorrigall[@ *GitHub*] +
+mailto:eddiecorrigall@gmail.com[],
+https://linkedin.com/in/eddiecorrigall[@*LinkedIn*],
+https://github.com/eddiecorrigall[@*GitHub*]
 
 == Skills
 * designing and implementing scalable products and productivity tooling
@@ -21,7 +21,9 @@ https://github.com/eddiecorrigall[@ *GitHub*] +
 * deploying, migrating and managing Linux-based systems
 * automating using CloudFormation, Docker, Ansible, Python, or shell scripting
 
-[%header,cols=4*]
+---
+
+[%rotate,cols="4*",frame=none,grid=none]
 |===
 
 |
@@ -29,42 +31,32 @@ https://github.com/eddiecorrigall[@ *GitHub*] +
 |★★★★☆ (4/5)
 |★★★☆☆ (3/5)
 
-|Programming Languages
-|Python, Java, Bash
-|JavaScipt
-|
-
-|Backend Frameworks
-|Flask
-|SQLAlchemy, Alembic, Hibernate, Liquibase
-|Spring, ExpressJS
-
-|Infrastructure
+|*Infrastructure*
 |CloudFormation, Kinesis, EC2, ECS, Docker
 |Redshift, DynamoDB, RDS, ElastiCache, ElasticSearch
 |Ansible, Vagrant, Packer
 
-|Analytics
-|Looker
-|Kinesis, CloudWatch
+|*Programming Languages*
+|Python, Java, Bash
+|JavaScipt
 |
 
-|Frontend Frameworks
+|*Backend Frameworks*
+|Flask
+|SQLAlchemy, Alembic, Hibernate, Liquibase
+|Spring, ExpressJS
+
+|*Frontend Frameworks*
 |Google Web Toolkit (GWT)
 |ReactJS
 |Android SDK, jQuery, UI Kit, VueJS, Bootstrap
 
+|*Analytics*
+|Looker
+|Kinesis, CloudWatch
+|
+
 |===
-
-== AWS Certifications
-[horizontal]
-AWS Certified Developer -- Associate 2018:: PSI Services LLC, License Verification #: +
-9JZ0Y2GCJME4QRW9
-
-== Education
-[horizontal]
-September 2008 -- April 2014:: Honours Bachelor of Computer Science with Co-op +
-University of Waterloo, Waterloo, Ontario
 
 == Professional Experience
 
@@ -72,24 +64,19 @@ University of Waterloo, Waterloo, Ontario
 
 4+ years experience with cloud services and certified Amazon Web Service professional.
 
-<<<
-
 === Mark43
-July 2020 -- _present_ +
-*Senior Software Engineer*, Full-time remote
+*Senior Software Engineer*, July 2020 -- _present_
 
 *Environment:* MySQL, Java, Looker, Docker, Docker Compose, AWS, Redis, Kafka, ElasticSearch, ReactJS
 
 * code contributor of record management system team emergency services software
-* mitigated ElasticSearch database synchronization used by emergency responders across USA by increasing write-capacity and customer support tooling
-* published ElasticSearch request of change (RFC) describing risk, short term and long term objectives, along with strategy to decoupled into regional clusters
+* authored ElasticSearch request for change, describing: risk, mitigation steps, short and long term goals
 * reduced ElasticSearch cluster capacity by roughly 40% (2TB+) without deleting any customer facing data
 * improved MySQL average query response time by optimizing internal notification service
-* overhauled State to Federal level report exports (NIBRS) to easily maintain code and rapidly on-board new customers
+* overhauled State to Federal report exports to easily maintain code and rapidly on-board new customers
 
 === Naborly
-December 2019 -- July 2020 (8 months) +
-*Senior Software Engineer*, Toronto, Ontario
+*Senior Software Engineer*, December 2019 -- July 2020
 
 *Environment:* RDS, Python, NodeJS, ExpressJS, MongoDB, Looker, Heroku, Stitch, Docker, Docker Compose
 
@@ -103,26 +90,24 @@ December 2019 -- July 2020 (8 months) +
 * improved looker no-SQL to SQL integration with stitch by adding MongoDB indices
 * took initiative to overhaul Looker analytics
 
-<<<
-
 === Acquia
-August 2017 -- December 2019 (2 years 5 months) +
-*Software Engineer*, Toronto, Ontario
+*Software Engineer*, August 2017 -- December 2019
 
 *Environment:* Agile, Scrum, Git, Java, Liquibase, Spring, Maven, CloudFormation, EC2, ElastiCache, Redshift, Kinesis, Data Pipelines, RDS, DynamoDB, Looker
 
 * automated zero-downtime deploy of rest api auto-scaling group rolling update
 * decoupled monolithic deploy: increase stability and speed for deploy during peak traffic
-* resolved outstanding rest api database throttling
+* designed rolled-out company security policy for read-only and elevate user access
 * led team web frontend refactor to help deliver unified experience across company
-* led security initiative to overhaul AWS resource access for read-only default, and elevate user access with multi-factor authentication
-* on-schedule completion of core product feature: report authoring, providing customers with custom analytics
-* improved existing geo-location integration for improved accuracy with no service interruption -- saving company $100,000 USD per year
+* replaced existing geo-location integration for improved accuracy and $100,000 USD per year in savings
+* on-schedule completion of core product: report authoring, providing customers with custom analytics
+* resolved outstanding rest api database throttling
 * built in-house tooling to improve developer and operation experience for team
 
+<<<
+
 === Instacart
-January 2016 -- August 2017 (1 year 8 months) +
-*Platform Engineer*, Toronto, Ontario
+*Platform Engineer*, January 2016 -- August 2017
 
 *Environment:* Python, PyTest, Flask, SQLAlchemy, Alembic, Postgres, Flask, Memcached, Redis, Redis Queue, Supervisor, Ansible, Vagrant, JIRA, SOAP, REST, bash, tmux, vim, git
 
@@ -134,63 +119,24 @@ January 2016 -- August 2017 (1 year 8 months) +
 * preparation and deployment of new software releases to staging and production environments
 * coordinating downtime and hardware upgrades for retailer environments
 
-<<<
+== Education
+[horizontal]
+Bachelor of Computer Science -- Honours, Co-op :: University of Waterloo +
+Waterloo, Ontario
 
-=== EyeReturn Marketing
-February 2015 -- December 2015 (1 year) +
-*Data Analyst*, Toronto, Ontario +
+== Certifications
+[horizontal]
+AWS Certified Developer -- Associate 2018 :: PSI Services LLC +
+https://aw.certmetrics.com/amazon/public/verification.aspx[License Verification #9JZ0Y2GCJME4QRW9]
 
-*Environment:* Hadoop, Pig Latin, Jython, HIVE, MySQL, MS SQL, JIRA, Confluence, Pentaho, BIRT
+[horizontal]
+Programming Mobile Services for Android Handheld Systems -- Comunication 2016 :: Corsera Course Certificates +
+https://www.coursera.org/account/accomplishments/verify/MEAJXDNAXQ[Credential ID MEAJXDNAXQ]
 
-* wrote Hadoop Pig Latin processors as part of anti-fraud effort
-* took initiative to design and implement more efficient data science mining tools
-* managed ad campaigns, increased performance metrics and wrote final reports for clients
+[horizontal]
+Programming Mobile Services for Android Handheld Systems -- Part 2, 2015 :: Corsera Course Certificates +
+https://www.coursera.org/account/accomplishments/verify/ANB9AQDUBZ[Credential ID ANB9AQDUBZ]
 
-=== Internships
-
-2 years working experience in University of Waterloo co-operative program.
-
-[%header,cols=6*]
-|===
-| Company
-| Location
-| Role
-| Starting
-| Timeframe
-| Performance Evaluation
-
-| ON Semiconductors
-| Waterloo, Ontario
-| Software Developer
-| May 2012
-| 8 months
-| Very Good
-
-| Pitney Bowes
-| Shelton, Connecticut, USA
-| Embedded Software Engineer
-| September 2011
-| 4 months
-| Excellent
-
-| Economical Insurance
-| Waterloo, Ontario
-| Web Developer
-| January 2011
-| 4 months
-| Excellent
-
-| Economical Insurance
-| Waterloo, Ontario
-| Web Developer
-| May 2010
-| 4 months
-| Excellent
-
-| TSAVO Media
-| Guelph, Ontario
-| Software Developer
-| September 2009
-| 4 months
-| Satisfactory
-|===
+[horizontal]
+Programming Mobile Services for Android Handheld Systems -- Part 1, 2015 :: Corsera Course Certificates +
+https://www.coursera.org/account/accomplishments/verify/R5JF2BGZTM[Credential ID R5JF2BGZTM]
