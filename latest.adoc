@@ -65,7 +65,7 @@ https://github.com/eddiecorrigall[@*GitHub*]
 === Mark43
 *Senior Software Engineer*, July 2020 -- _present_
 
-*Environment:* MySQL, Java, Looker, Docker, AWS, Redis, Kafka, ElasticSearch, ReactJS
+*Environment:* MySQL, Java, Docker, AWS, Redis, Kafka, ElasticSearch, ReactJS, Looker
 
 * code contributor of record management system team emergency services software
 * authored ElasticSearch request for change, describing: risk, mitigation steps, short and long term goals
@@ -78,7 +78,7 @@ https://github.com/eddiecorrigall[@*GitHub*]
 === Naborly
 *Senior Software Engineer*, December 2019 -- July 2020
 
-*Environment:* RDS, Python, NodeJS, ExpressJS, MongoDB, Looker, Heroku, Stitch, Docker
+*Environment:* Python, NodeJS, ExpressJS, ReactJS, MongoDB, Looker, Heroku, Stitch, Docker, RDS
 
 * led scrum, planning, grooming and retro meetings more effectively
 * setup local development for team with docker compose and selenium end-to-end testing
@@ -106,7 +106,7 @@ https://github.com/eddiecorrigall[@*GitHub*]
 === Instacart
 *Platform Engineer*, January 2016 -- August 2017
 
-*Environment:* Python, Flask, SQLAlchemy, Alembic, PostgreSQL, Flask, Memcached, Redis, Ansible, Vagrant
+*Environment:* Python, Flask, SQLAlchemy, Alembic, PostgreSQL, Memcached, Redis, Ansible, Vagrant
 
 * implemented rest api ecommerce features
 * optimized offers engine and added couponing feature
