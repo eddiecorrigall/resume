@@ -6,14 +6,18 @@ if [ -z "$(command -v asciidoctor)" ]; then
     brew install asciidoctor
 fi
 
-asciidoctor latest.adoc
+echo -n 'make html'
+time asciidoctor latest.adoc
+echo
 
 if [ -z "$(command -v asciidoctor-pdf)" ]; then
     gem install asciidoctor-pdf
 fi
 
-asciidoctor-pdf \
+echo -n 'make pdf'
+time asciidoctor-pdf \
     -a pdf-stylesdir=themes \
     -a pdf-style=resume \
     -a pdf-fontsdir=fonts \
         latest.adoc
+echo
