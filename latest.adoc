@@ -1,4 +1,3 @@
-== Edward Corrigall
 :hp-tags: resume, eddie, corrigall, university of waterloo, computer science, bachelor, software, developer, engineer
 :published_at: 2021-06-27
 :author: Eddie Corrigall
@@ -8,6 +7,9 @@
 :theme: resume
 :icons: font
 :icon-set: af
+:showtitle: false
+
+= Edward Corrigall
 
 Toronto, Ontario, Canada +
 mailto:eddiecorrigall@gmail.com[],
