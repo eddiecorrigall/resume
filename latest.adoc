@@ -22,6 +22,7 @@ https://github.com/eddiecorrigall[@*GitHub*]
 * scaling existing products, performance tuning application and infrastructure
 * automating using CloudFormation, Docker, Ansible, Python, or shell scripting
 * deploying, migrating and managing Linux-based systems
+* onboarding, mentoring, documenting and presenting
 
 [%rotate,cols="4*",frame=none,grid=rows]
 |===
