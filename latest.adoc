@@ -33,12 +33,12 @@ https://github.com/eddiecorrigall[@*GitHub*]
 
 |*Infrastructure*
 |CloudFormation, EC2, ECS, ElasticSearch
-|Redshift, DynamoDB, RDS, ElastiCache
-|Ansible, Vagrant, Packer, Docker
+|Redshift, DynamoDB, RDS, ElastiCache, Docker
+|Ansible, Vagrant, Packer, Kubernetes, Helm
 
 |*Languages*
 |Python, Java, Bash
-|JavaScipt
+|JavaScript, TypeScript
 |
 
 |*Backend*
@@ -60,12 +60,27 @@ https://github.com/eddiecorrigall[@*GitHub*]
 
 == Professional Experience
 
-* 8+ years work experience as a software engineer.
-* 4+ years experience with cloud services.
+* 10+ years work experience as a software engineer.
+* 6+ years experience with cloud services:
+    - Amazon Web Services,
+    - Google Cloud Platform, and
+    - Heroku.
 * certified Amazon Web Service professional.
 
-=== Mark43
-*Senior Software Engineer*, July 2020 -- _present_
+<<<
+
+=== https://clear.co/[Clearco]
+*Senior Software Engineer*, August 2021 -- _present_
+
+*Environment:* PostgreSQL, TypeScript, Docker, GCP Kubernetes + SQL, Netlify, ReactJS, pgmigrate, Looker, Jenkins, GitHub, JMeter
+
+* technical lead for new greenlit bills service product to support founder merchant cash advance
+* successfully migrated out of monolith into indepdendent microservice: codebase, repository, database and build pipeline
+* worked above and beyond to automate and document local development experience and improve integration environment for engineering organization
+* preemptively battle tested internal APIs to support eCommerce customers for Black Friday / Cyber Monday to catch potential issues with new load testing project
+
+=== https://mark43.com/[Mark43]
+*Senior Software Engineer*, July 2020 -- August 2020
 
 *Environment:* MySQL, Java, Docker, AWS, Redis, Kafka, ElasticSearch, ReactJS, Looker
 
@@ -75,9 +90,7 @@ https://github.com/eddiecorrigall[@*GitHub*]
 * improved MySQL average query response time by optimizing internal notification service
 * overhauled State to Federal report exports to easily maintain code and rapidly on-board new customers
 
-<<<
-
-=== Naborly
+=== https://www.naborly.com/[Naborly]
 *Senior Software Engineer*, December 2019 -- July 2020
 
 *Environment:* Python, NodeJS, ExpressJS, ReactJS, MongoDB, Looker, Heroku, Stitch, Docker, RDS
@@ -91,7 +104,9 @@ https://github.com/eddiecorrigall[@*GitHub*]
 * improved looker no-SQL to SQL integration with stitch by adding MongoDB indices
 * took initiative to overhaul Looker analytics
 
-=== Acquia
+<<<
+
+=== https://www.acquia.com/[Acquia]
 *Software Engineer*, August 2017 -- December 2019
 
 *Environment:* Java, Looker, CloudFormation, EC2, ElastiCache, Redshift, Kinesis, Data Pipelines, RDS, DynamoDB, Hibernate, Liquibase, Spring
@@ -105,7 +120,7 @@ https://github.com/eddiecorrigall[@*GitHub*]
 * resolved outstanding rest api database throttling
 * built in-house tooling to improve developer and operation experience for team
 
-=== Instacart
+=== https://www.instacart.ca/[Instacart]
 *Platform Engineer*, January 2016 -- August 2017
 
 *Environment:* Python, Flask, SQLAlchemy, Alembic, PostgreSQL, Memcached, Redis, Ansible, Vagrant
@@ -141,3 +156,20 @@ https://www.coursera.org/account/accomplishments/verify/ANB9AQDUBZ[Credential ID
 [horizontal]
 Programming Mobile Services for Android Handheld Systems -- Part 1, 2015 :: Corsera Course Certificates +
 https://www.coursera.org/account/accomplishments/verify/R5JF2BGZTM[Credential ID R5JF2BGZTM]
+
+== Tech Project Highlights
+* https://7okyo.com[Home Networking Project: DNS]
+* https://github.com/eddiecorrigall/elang[Toy Programming Language]
+* https://github.com/eddiecorrigall/awscli-ext[AWS CLI Extension - Resource Administration and Tooling]
+* https://github.com/dtjohnson/xlsx-populate[Microsoft Excel API for NodeJS]
+* https://github.com/eddiecorrigall/GraphicsEngine[OpenGL Game Engine]
+* https://github.com/eddiecorrigall/tinyurl[Tiny URL Service]
+
+== Hobbies and Interests
+* Gardening / Koi Pond
+* Astronomy / Space
+* Sailing
+* Brewing: beer, wine, mead, etc
+* Rock Climbing
+* Home Networking / NAS
+* Retro Computing
