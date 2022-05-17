@@ -166,8 +166,9 @@ https://www.coursera.org/account/accomplishments/verify/R5JF2BGZTM[Credential ID
 * https://github.com/eddiecorrigall/tinyurl[Tiny URL Service]
 
 == Hobbies and Interests
-* Gardening / Koi Pond
-* Astronomy / Space
+* Gardening and Koi Pond
+* Astronomy and Space
+* Bass and Guitar
 * Sailing
 * Brewing: beer, wine, mead, etc
 * Rock Climbing
