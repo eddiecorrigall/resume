@@ -73,15 +73,15 @@ https://github.com/eddiecorrigall[@*GitHub*]
 === https://clear.co/[Clearco]
 *Senior Software Engineer*, August 2021 -- _present_
 
-*Environment:* PostgreSQL, TypeScript, Docker, GCP Kubernetes + SQL, Netlify, ReactJS, pgmigrate, Looker, Jenkins, GitHub, JMeter
+*Environment:* PostgreSQL, TypeScript, Docker, Helm, Lens, GCP Kubernetes, GCP SQL, Netlify, VueJS, pgmigrate, Looker, Jenkins, GitHub Actions, JMeter, Figma
 
-* technical lead for new greenlit bills service product to support founder merchant cash advance
-* successfully migrated out of monolith into indepdendent microservice: codebase, repository, database and build pipeline
+* technical lead for new green-lit bills service product to support founder merchant cash advance
+* successfully migrated out of monolith intoi independent micro-service: code, repository, database and build pipeline
 * worked above and beyond to automate and document local development experience and improve integration environment for engineering organization
-* preemptively battle tested internal APIs to support eCommerce customers for Black Friday / Cyber Monday to catch potential issues with new load testing project
+* pre-emptively battle tested internal APIs to support eCommerce customers for black friday / cyber monday to catch potential issues with new load testing project
 
 === https://mark43.com/[Mark43]
-*Senior Software Engineer*, July 2020 -- August 2020
+*Senior Software Engineer*, July 2020 -- August 2021
 
 *Environment:* MySQL, Java, Docker, AWS, Redis, Kafka, ElasticSearch, ReactJS, Looker
 
