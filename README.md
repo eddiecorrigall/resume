@@ -6,6 +6,13 @@ This is where I host *[my personal resume](latest.pdf)*.
 
 This reads the asciidoc latest.adoc file, and generates html and pdf files.
 
-```{r, engine='bash', count_lines}
-sh generate.bash
+```bash
+# Show help
+./build.sh --help
+
+# Build resume in ALL formats
+./build.sh all latest.adoc
+
+# Build and open pdf resume
+./build.sh pdf latest.adoc
 ```
