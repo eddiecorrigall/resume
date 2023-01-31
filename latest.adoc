@@ -1,4 +1,4 @@
-:hp-tags: resume, eddie, corrigall, university of waterloo, computer science, bachelor, software, developer, engineer
+:hp-tags: resume, eddie, corrigall, university of waterloo, computer science, bachelor, software, developer, engineer, devops
 :published_at: 2021-06-27
 :author: Eddie Corrigall
 :doctype: article
@@ -11,7 +11,7 @@
 
 = Edward Corrigall
 
-Toronto, Ontario, Canada +
+Kitchener, Ontario, Canada +
 mailto:eddiecorrigall@gmail.com[],
 https://linkedin.com/in/eddiecorrigall[@*LinkedIn*],
 https://github.com/eddiecorrigall[@*GitHub*]
@@ -21,7 +21,7 @@ https://github.com/eddiecorrigall[@*GitHub*]
 * planning long term objectives and working with teams to accomplish goals
 * scaling existing products, performance tuning application and infrastructure
 * automating using CloudFormation, Docker, Ansible, Python, or shell scripting
-* deploying, migrating and managing Linux-based systems
+* deploying, migrating and managing enterprise software
 * onboarding, mentoring, documenting and presenting
 
 [%rotate,cols="4*",frame=none,grid=rows]
@@ -34,8 +34,8 @@ https://github.com/eddiecorrigall[@*GitHub*]
 
 |*Infrastructure*
 |CloudFormation, EC2, ECS, ElasticSearch
-|Redshift, DynamoDB, RDS, ElastiCache, Docker
-|Ansible, Vagrant, Packer, Kubernetes, Helm
+|Redshift, DynamoDB, RDS, ElastiCache, Docker, Packer
+|Ansible, Vagrant, Kubernetes, Helm
 
 |*Languages*
 |Python, Java, Bash
@@ -61,54 +61,86 @@ https://github.com/eddiecorrigall[@*GitHub*]
 
 == Professional Experience
 
-* 10+ years work experience as a software engineer.
-* 6+ years experience with cloud services:
+* 10+ years software as a service (SaaS) experience
+* 5+ years experience with cloud services:
     - Amazon Web Services,
     - Google Cloud Platform, and
-    - Heroku.
-* certified Amazon Web Service professional.
+    - Heroku
+* Certified Amazon Web Service professional
 
 <<<
 
+=== https://ledn.io/[Ledn]
+*Senior Develops Engineer*, October 2022 -- _present_
+
+*Business:* financial tech focused on lending and savings account for digital assets
+
+*Environment:* MongoDB, Mongoose, TypeScript, Docker, AWS Lambda, Serverless,
+Webpack, GitHub Actions, AWS, MongoDB Atlas
+
+* focused on increasing developer velocity and information security
+* automated rollout of internal password management tool (Passbolt) using Packer, Cloudformation, Elastic Load Balancer, AutoScaling Group and Route53
+* created new one-way file upload service to secure sensitive customer data with Cloudformation and S3
+* refactored out critical vulnerabilities out of NodeJS project
+* incorporated NodeJS Package Module audit into CI/CD builds
+* automated iOS TestFlight release to Apple Store using Fastlane and GitHub Actions
+* investigated and solved single-lambda deployment failure relatating to Webpack dependency traversal
+* investigated and mitigated database migration release issues
+* participated in long-term support planning and upgrades for NodeJS, MongoDB, CloudFormation Stack Resource Limit
+* unblocked engineering release process by splitting large AWS Cloudformation Stack managed by Serverless infrastructor tool
+
 === https://clear.co/[Clearco]
-*Senior Software Engineer*, August 2021 -- _present_
+*Senior Software Engineer*, August 2021 -- October 2022
+
+*Business:* Business-to-business financial services: merchant cash advance, revenue sharing
 
 *Environment:* PostgreSQL, TypeScript, Docker, Helm, Lens, GCP Kubernetes, GCP SQL, Netlify, VueJS, pgmigrate, Looker, Jenkins, GitHub Actions, JMeter, Figma
 
-* technical lead for new green-lit bills service product to support founder merchant cash advance
-* successfully migrated out of monolith intoi independent micro-service: code, repository, database and build pipeline
-* worked above and beyond to automate and document local development experience and improve integration environment for engineering organization
-* pre-emptively battle tested internal APIs to support eCommerce customers for black friday / cyber monday to catch potential issues with new load testing project
+* backend technical lead for greenlit bills service product to support founder merchant cash advance
+* enabled team to experiment in isolation and rapidly deploy changes to production
+* complete migration from monolith to micro-service: codebase, source control, database and software release pipeline
+* paved the way for engineering organization to break out into micro-services by offering support with documentation, knowledge share session and playbook
+* protected customers from peek traffic by building out performance + load test automation
+* successfully prevented downtime during Black Friday and Cyber Monday for eCommerce customers
+
+<<<
 
 === https://mark43.com/[Mark43]
 *Senior Software Engineer*, July 2020 -- August 2021
 
+*Business:* Emergency service (police, fire, and paramedic) software as a service
+
 *Environment:* MySQL, Java, Docker, AWS, Redis, Kafka, ElasticSearch, ReactJS, Looker
 
 * code contributor of record management system team emergency services software
+* overhauled State to Federal report export software to easily maintain code and rapidly on-board new customers
 * authored ElasticSearch request for change, describing: risk, mitigation steps, short and long term goals
 * reduced ElasticSearch cluster capacity by roughly 40% (2TB+) without deleting any customer facing data
-* improved MySQL average query response time by optimizing internal notification service
-* overhauled State to Federal report exports to easily maintain code and rapidly on-board new customers
+* improved MySQL average query response time by optimizing customer facing notification system
 
 === https://www.naborly.com/[Naborly]
 *Senior Software Engineer*, December 2019 -- July 2020
 
+*Business:* Tenant and landlord services
+
 *Environment:* Python, NodeJS, ExpressJS, ReactJS, MongoDB, Looker, Heroku, Stitch, Docker, RDS
 
-* led scrum, planning, grooming and retro meetings more effectively
+* took led on scrum, planning, grooming and retro meetings
 * setup local development for team with docker compose and selenium end-to-end testing
 * built out new CloudFormation ECS service stack to migrate cloud providers
-* helped build new api for rent guarantee claims service
+* delivered new API for rent guarantee claims service
 * secured AWS account with IAM stack groups and policies
 * reduced AWS costs from $250 to $40 USD per day -- saving company more than $75,000 USD per year
 * improved looker no-SQL to SQL integration with stitch by adding MongoDB indices
-* took initiative to overhaul Looker analytics
+* assumed ownership over Looker analytics to support and train sales / marketing teams
+* shaped analytics into a self-serve internal product
 
 <<<
 
 === https://www.acquia.com/[Acquia]
 *Software Engineer*, August 2017 -- December 2019
+
+*Business:* Drupal hosting / content-management system software as a service
 
 *Environment:* Java, Looker, CloudFormation, EC2, ElastiCache, Redshift, Kinesis, Data Pipelines, RDS, DynamoDB, Hibernate, Liquibase, Spring
 
@@ -123,6 +155,8 @@ https://github.com/eddiecorrigall[@*GitHub*]
 
 === https://www.instacart.ca/[Instacart]
 *Platform Engineer*, January 2016 -- August 2017
+
+*Business:* Grocery eCommerce and shopping fulfillment
 
 *Environment:* Python, Flask, SQLAlchemy, Alembic, PostgreSQL, Memcached, Redis, Ansible, Vagrant
 
@@ -159,12 +193,12 @@ Programming Mobile Services for Android Handheld Systems -- Part 1, 2015 :: Cors
 https://www.coursera.org/account/accomplishments/verify/R5JF2BGZTM[Credential ID R5JF2BGZTM]
 
 == Tech Project Highlights
-* https://7okyo.com[Home Networking Project: DNS]
+* https://github.com/eddiecorrigall/database-revisions[Agnostic Database Migration Tool]
 * https://github.com/eddiecorrigall/elang[Toy Programming Language]
-* https://github.com/eddiecorrigall/awscli-ext[AWS CLI Extension - Resource Administration and Tooling]
 * https://github.com/dtjohnson/xlsx-populate[Microsoft Excel API for NodeJS]
-* https://github.com/eddiecorrigall/GraphicsEngine[OpenGL Game Engine]
 * https://github.com/eddiecorrigall/tinyurl[Tiny URL Service]
+* https://github.com/eddiecorrigall/GraphicsEngine[OpenGL Game Engine]
+* https://github.com/eddiecorrigall/awscli-ext[AWS CLI Extension - Resource Administration and Tooling]
 
 == Hobbies and Interests
 * Gardening and Koi Pond

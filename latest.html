@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Asciidoctor 2.0.17">
+<meta name="generator" content="Asciidoctor 2.0.18">
 <meta name="author" content="Eddie Corrigall">
 <title>Edward Corrigall</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
@@ -85,10 +85,10 @@ code{font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;font-weight:400;
 ul,ol,dl{line-height:1.6;margin-bottom:1.25em;list-style-position:outside;font-family:inherit}
 ul,ol{margin-left:1.5em}
 ul li ul,ul li ol{margin-left:1.25em;margin-bottom:0}
-ul.square li ul,ul.circle li ul,ul.disc li ul{list-style:inherit}
-ul.square{list-style-type:square}
 ul.circle{list-style-type:circle}
 ul.disc{list-style-type:disc}
+ul.square{list-style-type:square}
+ul.circle ul:not([class]),ul.disc ul:not([class]),ul.square ul:not([class]){list-style:inherit}
 ol li ul,ol li ol{margin-left:1.25em;margin-bottom:0}
 dl dt{margin-bottom:.3125em;font-weight:bold}
 dl dd{margin-bottom:1.25em}
@@ -449,7 +449,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
-<p>Toronto, Ontario, Canada<br>
+<p>Kitchener, Ontario, Canada<br>
 <a href="mailto:eddiecorrigall@gmail.com">eddiecorrigall@gmail.com</a>,
 <a href="https://linkedin.com/in/eddiecorrigall">@<strong>LinkedIn</strong></a>,
 <a href="https://github.com/eddiecorrigall">@<strong>GitHub</strong></a></p>
@@ -474,7 +474,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <p>automating using CloudFormation, Docker, Ansible, Python, or shell scripting</p>
 </li>
 <li>
-<p>deploying, migrating and managing Linux-based systems</p>
+<p>deploying, migrating and managing enterprise software</p>
 </li>
 <li>
 <p>onboarding, mentoring, documenting and presenting</p>
@@ -498,8 +498,8 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <tr>
 <td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Infrastructure</strong></p></td>
 <td class="tableblock halign-left valign-top"><p class="tableblock">CloudFormation, EC2, ECS, ElasticSearch</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Redshift, DynamoDB, RDS, ElastiCache, Docker</p></td>
-<td class="tableblock halign-left valign-top"><p class="tableblock">Ansible, Vagrant, Packer, Kubernetes, Helm</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Redshift, DynamoDB, RDS, ElastiCache, Docker, Packer</p></td>
+<td class="tableblock halign-left valign-top"><p class="tableblock">Ansible, Vagrant, Kubernetes, Helm</p></td>
 </tr>
 <tr>
 <td class="tableblock halign-left valign-top"><p class="tableblock"><strong>Languages</strong></p></td>
@@ -535,10 +535,10 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="ulist">
 <ul>
 <li>
-<p>10+ years work experience as a software engineer.</p>
+<p>10+ years software as a service (SaaS) experience</p>
 </li>
 <li>
-<p>6+ years experience with cloud services:</p>
+<p>5+ years experience with cloud services:</p>
 <div class="ulist">
 <ul>
 <li>
@@ -548,21 +548,71 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <p>Google Cloud Platform, and</p>
 </li>
 <li>
-<p>Heroku.</p>
+<p>Heroku</p>
 </li>
 </ul>
 </div>
 </li>
 <li>
-<p>certified Amazon Web Service professional.</p>
+<p>Certified Amazon Web Service professional</p>
 </li>
 </ul>
 </div>
 <div style="page-break-after: always;"></div>
 <div class="sect2">
+<h3 id="_ledn"><a href="https://ledn.io/">Ledn</a></h3>
+<div class="paragraph">
+<p><strong>Senior Develops Engineer</strong>, October 2022&#8201;&#8212;&#8201;<em>present</em></p>
+</div>
+<div class="paragraph">
+<p><strong>Business:</strong> financial tech focused on lending and savings account for digital assets</p>
+</div>
+<div class="paragraph">
+<p><strong>Environment:</strong> MongoDB, Mongoose, TypeScript, Docker, AWS Lambda, Serverless,
+Webpack, GitHub Actions, AWS, MongoDB Atlas</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p>focused on increasing developer velocity and information security</p>
+</li>
+<li>
+<p>automated rollout of internal password management tool (Passbolt) using Packer, Cloudformation, Elastic Load Balancer, AutoScaling Group and Route53</p>
+</li>
+<li>
+<p>created new one-way file upload service to secure sensitive customer data with Cloudformation and S3</p>
+</li>
+<li>
+<p>refactored out critical vulnerabilities out of NodeJS project</p>
+</li>
+<li>
+<p>incorporated NodeJS Package Module audit into CI/CD builds</p>
+</li>
+<li>
+<p>automated iOS TestFlight release to Apple Store using Fastlane and GitHub Actions</p>
+</li>
+<li>
+<p>investigated and solved single-lambda deployment failure relatating to Webpack dependency traversal</p>
+</li>
+<li>
+<p>investigated and mitigated database migration release issues</p>
+</li>
+<li>
+<p>participated in long-term support planning and upgrades for NodeJS, MongoDB, CloudFormation Stack Resource Limit</p>
+</li>
+<li>
+<p>unblocked engineering release process by splitting large AWS Cloudformation Stack managed by Serverless infrastructor tool</p>
+</li>
+</ul>
+</div>
+</div>
+<div class="sect2">
 <h3 id="_clearco"><a href="https://clear.co/">Clearco</a></h3>
 <div class="paragraph">
-<p><strong>Senior Software Engineer</strong>, August 2021&#8201;&#8212;&#8201;<em>present</em></p>
+<p><strong>Senior Software Engineer</strong>, August 2021&#8201;&#8212;&#8201;October 2022</p>
+</div>
+<div class="paragraph">
+<p><strong>Business:</strong> Business-to-business financial services: merchant cash advance, revenue sharing</p>
 </div>
 <div class="paragraph">
 <p><strong>Environment:</strong> PostgreSQL, TypeScript, Docker, Helm, Lens, GCP Kubernetes, GCP SQL, Netlify, VueJS, pgmigrate, Looker, Jenkins, GitHub Actions, JMeter, Figma</p>
@@ -570,24 +620,34 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div class="ulist">
 <ul>
 <li>
-<p>technical lead for new green-lit bills service product to support founder merchant cash advance</p>
+<p>backend technical lead for greenlit bills service product to support founder merchant cash advance</p>
 </li>
 <li>
-<p>successfully migrated out of monolith intoi independent micro-service: code, repository, database and build pipeline</p>
+<p>enabled team to experiment in isolation and rapidly deploy changes to production</p>
 </li>
 <li>
-<p>worked above and beyond to automate and document local development experience and improve integration environment for engineering organization</p>
+<p>complete migration from monolith to micro-service: codebase, source control, database and software release pipeline</p>
 </li>
 <li>
-<p>pre-emptively battle tested internal APIs to support eCommerce customers for black friday / cyber monday to catch potential issues with new load testing project</p>
+<p>paved the way for engineering organization to break out into micro-services by offering support with documentation, knowledge share session and playbook</p>
+</li>
+<li>
+<p>protected customers from peek traffic by building out performance + load test automation</p>
+</li>
+<li>
+<p>successfully prevented downtime during Black Friday and Cyber Monday for eCommerce customers</p>
 </li>
 </ul>
 </div>
+<div style="page-break-after: always;"></div>
 </div>
 <div class="sect2">
 <h3 id="_mark43"><a href="https://mark43.com/">Mark43</a></h3>
 <div class="paragraph">
 <p><strong>Senior Software Engineer</strong>, July 2020&#8201;&#8212;&#8201;August 2021</p>
+</div>
+<div class="paragraph">
+<p><strong>Business:</strong> Emergency service (police, fire, and paramedic) software as a service</p>
 </div>
 <div class="paragraph">
 <p><strong>Environment:</strong> MySQL, Java, Docker, AWS, Redis, Kafka, ElasticSearch, ReactJS, Looker</p>
@@ -598,16 +658,16 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <p>code contributor of record management system team emergency services software</p>
 </li>
 <li>
+<p>overhauled State to Federal report export software to easily maintain code and rapidly on-board new customers</p>
+</li>
+<li>
 <p>authored ElasticSearch request for change, describing: risk, mitigation steps, short and long term goals</p>
 </li>
 <li>
 <p>reduced ElasticSearch cluster capacity by roughly 40% (2TB+) without deleting any customer facing data</p>
 </li>
 <li>
-<p>improved MySQL average query response time by optimizing internal notification service</p>
-</li>
-<li>
-<p>overhauled State to Federal report exports to easily maintain code and rapidly on-board new customers</p>
+<p>improved MySQL average query response time by optimizing customer facing notification system</p>
 </li>
 </ul>
 </div>
@@ -618,12 +678,15 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <p><strong>Senior Software Engineer</strong>, December 2019&#8201;&#8212;&#8201;July 2020</p>
 </div>
 <div class="paragraph">
+<p><strong>Business:</strong> Tenant and landlord services</p>
+</div>
+<div class="paragraph">
 <p><strong>Environment:</strong> Python, NodeJS, ExpressJS, ReactJS, MongoDB, Looker, Heroku, Stitch, Docker, RDS</p>
 </div>
 <div class="ulist">
 <ul>
 <li>
-<p>led scrum, planning, grooming and retro meetings more effectively</p>
+<p>took led on scrum, planning, grooming and retro meetings</p>
 </li>
 <li>
 <p>setup local development for team with docker compose and selenium end-to-end testing</p>
@@ -632,7 +695,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <p>built out new CloudFormation ECS service stack to migrate cloud providers</p>
 </li>
 <li>
-<p>helped build new api for rent guarantee claims service</p>
+<p>delivered new API for rent guarantee claims service</p>
 </li>
 <li>
 <p>secured AWS account with IAM stack groups and policies</p>
@@ -644,7 +707,10 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <p>improved looker no-SQL to SQL integration with stitch by adding MongoDB indices</p>
 </li>
 <li>
-<p>took initiative to overhaul Looker analytics</p>
+<p>assumed ownership over Looker analytics to support and train sales / marketing teams</p>
+</li>
+<li>
+<p>shaped analytics into a self-serve internal product</p>
 </li>
 </ul>
 </div>
@@ -654,6 +720,9 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <h3 id="_acquia"><a href="https://www.acquia.com/">Acquia</a></h3>
 <div class="paragraph">
 <p><strong>Software Engineer</strong>, August 2017&#8201;&#8212;&#8201;December 2019</p>
+</div>
+<div class="paragraph">
+<p><strong>Business:</strong> Drupal hosting / content-management system software as a service</p>
 </div>
 <div class="paragraph">
 <p><strong>Environment:</strong> Java, Looker, CloudFormation, EC2, ElastiCache, Redshift, Kinesis, Data Pipelines, RDS, DynamoDB, Hibernate, Liquibase, Spring</p>
@@ -691,6 +760,9 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <h3 id="_instacart"><a href="https://www.instacart.ca/">Instacart</a></h3>
 <div class="paragraph">
 <p><strong>Platform Engineer</strong>, January 2016&#8201;&#8212;&#8201;August 2017</p>
+</div>
+<div class="paragraph">
+<p><strong>Business:</strong> Grocery eCommerce and shopping fulfillment</p>
 </div>
 <div class="paragraph">
 <p><strong>Environment:</strong> Python, Flask, SQLAlchemy, Alembic, PostgreSQL, Memcached, Redis, Ansible, Vagrant</p>
@@ -805,22 +877,22 @@ Programming Mobile Services for Android Handheld Systems&#8201;&#8212;&#8201;Par
 <div class="ulist">
 <ul>
 <li>
-<p><a href="https://7okyo.com">Home Networking Project: DNS</a></p>
+<p><a href="https://github.com/eddiecorrigall/database-revisions">Agnostic Database Migration Tool</a></p>
 </li>
 <li>
 <p><a href="https://github.com/eddiecorrigall/elang">Toy Programming Language</a></p>
 </li>
 <li>
-<p><a href="https://github.com/eddiecorrigall/awscli-ext">AWS CLI Extension - Resource Administration and Tooling</a></p>
+<p><a href="https://github.com/dtjohnson/xlsx-populate">Microsoft Excel API for NodeJS</a></p>
 </li>
 <li>
-<p><a href="https://github.com/dtjohnson/xlsx-populate">Microsoft Excel API for NodeJS</a></p>
+<p><a href="https://github.com/eddiecorrigall/tinyurl">Tiny URL Service</a></p>
 </li>
 <li>
 <p><a href="https://github.com/eddiecorrigall/GraphicsEngine">OpenGL Game Engine</a></p>
 </li>
 <li>
-<p><a href="https://github.com/eddiecorrigall/tinyurl">Tiny URL Service</a></p>
+<p><a href="https://github.com/eddiecorrigall/awscli-ext">AWS CLI Extension - Resource Administration and Tooling</a></p>
 </li>
 </ul>
 </div>
@@ -862,7 +934,7 @@ Programming Mobile Services for Android Handheld Systems&#8201;&#8212;&#8201;Par
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2022-08-02 12:51:23 -0400
+Last updated 2023-01-30 23:32:32 -0500
 </div>
 </div>
 </body>
