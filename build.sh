@@ -8,7 +8,8 @@ export FORMAT="$1"
 export ADOC="$2"
 
 function usage() {
-    echo "USAGE: $SCRIPT [pdf|html] [adoc file]"
+    echo "USAGE: $SCRIPT <all|html|pdf> <adoc file>"
+    echo 'Supported formats: all, html, pdf'
 }
 
 function install_asciidoctor() {
@@ -20,6 +21,7 @@ function install_asciidoctor() {
 function expect_adoc() {
     if [ -z "$ADOC" ]; then
         echo 'ERROR: missing adoc file path argument!' > /dev/stderr
+        usage
         return 1
     fi
 }
@@ -64,6 +66,7 @@ case "$FORMAT" in
         ;;
     *)
         echo "ERROR: unknown format $FORMAT" > /dev/stderr
+        usage
         exit 1
         ;;
 esac
