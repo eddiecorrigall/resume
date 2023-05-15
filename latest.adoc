@@ -63,16 +63,17 @@ https://github.com/eddiecorrigall[@*GitHub*]
 
 == Professional Experience
 
-* 15+ years software as a service (SaaS) experience
+* Certified Amazon Web Service professional
+* 10+ years software as a service (SaaS) experience
+    - Development experience and automation
     - Software Development
     - Infrastructure Development
     - CI/CD Development
     - Data warehousing and Data Integrations
-* 10+ years experience with cloud services:
+* 7+ years cloud service experience
     - Amazon Web Services,
     - Google Cloud Platform, and
     - Heroku
-* Certified Amazon Web Service professional
 
 <<<
 
