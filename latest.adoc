@@ -1,5 +1,5 @@
 :hp-tags: resume, eddie, corrigall, university of waterloo, computer science, bachelor, software, developer, engineer, devops
-:published_at: 2021-06-27
+:published_at: 2023-05-15
 :author: Eddie Corrigall
 :doctype: article
 :encoding: UTF-8
@@ -23,6 +23,8 @@ https://github.com/eddiecorrigall[@*GitHub*]
 * automating using CloudFormation, Docker, Ansible, Python, or shell scripting
 * deploying, migrating and managing enterprise software
 * onboarding, mentoring, documenting and presenting
+* producing simple and effective solutions by acknowledging that software systems evolve
+* tailoring technology to suit the problem, rather than fitting the problem into the technology
 
 [%rotate,cols="4*",frame=none,grid=rows]
 |===
@@ -33,8 +35,8 @@ https://github.com/eddiecorrigall[@*GitHub*]
 |★★★☆☆ (3/5)
 
 |*Infrastructure*
-|CloudFormation, EC2, ECS, ElasticSearch
-|Redshift, DynamoDB, RDS, ElastiCache, Docker, Packer
+|CloudFormation, EC2, ECS, VPC
+|Redshift, S3, DynamoDB, RDS, ElastiCache, Docker, Packer, ElasticSearch
 |Ansible, Vagrant, Kubernetes, Helm
 
 |*Languages*
@@ -43,7 +45,7 @@ https://github.com/eddiecorrigall[@*GitHub*]
 |
 
 |*Backend*
-|Flask, SQLAlchemy, Alembic
+|Flask, SQLAlchemy, Alembic, ExpressJS
 |Hibernate, Liquibase, Google Web Toolkit
 |Android SDK, Spring, ExpressJS
 
@@ -61,8 +63,12 @@ https://github.com/eddiecorrigall[@*GitHub*]
 
 == Professional Experience
 
-* 10+ years software as a service (SaaS) experience
-* 5+ years experience with cloud services:
+* 15+ years software as a service (SaaS) experience
+    - Software Development
+    - Infrastructure Development
+    - CI/CD Development
+    - Data warehousing and Data Integrations
+* 10+ years experience with cloud services:
     - Amazon Web Services,
     - Google Cloud Platform, and
     - Heroku
@@ -71,7 +77,7 @@ https://github.com/eddiecorrigall[@*GitHub*]
 <<<
 
 === https://ledn.io/[Ledn]
-*Senior Develops Engineer*, October 2022 -- _present_
+*Senior DevOps Engineer*, October 2022 -- April 2023
 
 *Business:* financial tech focused on lending and savings account for digital assets
 
@@ -88,32 +94,34 @@ Webpack, GitHub Actions, AWS, MongoDB Atlas
 * investigated and mitigated database migration release issues
 * participated in long-term support planning and upgrades for NodeJS, MongoDB, CloudFormation Stack Resource Limit
 * unblocked engineering release process by splitting large AWS Cloudformation Stack managed by Serverless infrastructor tool
+* migrated frontend team CI/CD to a GitHub Actions GitFlow from CircleCI for improved workflow and cost savings
 
 === https://clear.co/[Clearco]
 *Senior Software Engineer*, August 2021 -- October 2022
 
-*Business:* Business-to-business financial services: merchant cash advance, revenue sharing
+*Business:* business-to-business financial services: merchant cash advance, revenue sharing
 
 *Environment:* PostgreSQL, TypeScript, Docker, Helm, Lens, GCP Kubernetes, GCP SQL, Netlify, VueJS, pgmigrate, Looker, Jenkins, GitHub Actions, JMeter, Figma
 
 * backend technical lead for greenlit bills service product to support founder merchant cash advance
-* enabled team to experiment in isolation and rapidly deploy changes to production
+* bootstrapped NodeJS backend API project for engineers with team specific CI/CD workflow
+* enabled team to experiment in isolation from monolith codebase to rapidly deploy changes for the first time
 * complete migration from monolith to micro-service: codebase, source control, database and software release pipeline
 * paved the way for engineering organization to break out into micro-services by offering support with documentation, knowledge share session and playbook
 * protected customers from peek traffic by building out performance + load test automation
-* successfully prevented downtime during Black Friday and Cyber Monday for eCommerce customers
+* successfully prevented degraded experience during Black Friday and Cyber Monday for eCommerce customers for the first time
 
 <<<
 
 === https://mark43.com/[Mark43]
 *Senior Software Engineer*, July 2020 -- August 2021
 
-*Business:* Emergency service (police, fire, and paramedic) software as a service
+*Business:* emergency service (police, fire, and paramedic) software as a service
 
 *Environment:* MySQL, Java, Docker, AWS, Redis, Kafka, ElasticSearch, ReactJS, Looker
 
 * code contributor of record management system team emergency services software
-* overhauled State to Federal report export software to easily maintain code and rapidly on-board new customers
+* overhauled State to Federal report export software for developers to easily maintain code and rapidly on-board new customers
 * authored ElasticSearch request for change, describing: risk, mitigation steps, short and long term goals
 * reduced ElasticSearch cluster capacity by roughly 40% (2TB+) without deleting any customer facing data
 * improved MySQL average query response time by optimizing customer facing notification system
@@ -125,48 +133,49 @@ Webpack, GitHub Actions, AWS, MongoDB Atlas
 
 *Environment:* Python, NodeJS, ExpressJS, ReactJS, MongoDB, Looker, Heroku, Stitch, Docker, RDS
 
-* took led on scrum, planning, grooming and retro meetings
+* led on scrum, planning, grooming and retro meetings
 * setup local development for team with docker compose and selenium end-to-end testing
-* built out new CloudFormation ECS service stack to migrate cloud providers
+* built out new CloudFormation ECS service stack to migrate cloud providers from Heroku to AWS
 * delivered new API for rent guarantee claims service
 * secured AWS account with IAM stack groups and policies
 * reduced AWS costs from $250 to $40 USD per day -- saving company more than $75,000 USD per year
 * improved looker no-SQL to SQL integration with stitch by adding MongoDB indices
 * assumed ownership over Looker analytics to support and train sales / marketing teams
-* shaped analytics into a self-serve internal product
+* transformed Looker analytics into a self-serve internal product
 
 <<<
 
 === https://www.acquia.com/[Acquia]
 *Software Engineer*, August 2017 -- December 2019
 
-*Business:* Drupal hosting / content-management system software as a service
+*Business:* drupal hosting / content-management system software as a service
 
 *Environment:* Java, Looker, CloudFormation, EC2, ElastiCache, Redshift, Kinesis, Data Pipelines, RDS, DynamoDB, Hibernate, Liquibase, Spring
 
-* automated zero-downtime deploy of rest api auto-scaling group rolling update
+* automated zero-downtime deploy of RESTful API auto-scaling group rolling update
 * decoupled monolithic deploy: increase stability and speed for deploy during peak traffic
-* designed rolled-out company security policy for read-only and elevate user access
+* rolled-out company security policy for read-only and elevate user access using Simple Token Service and IAM Roles
 * led team web frontend refactor to help deliver unified experience across company
-* replaced existing geo-location integration for improved accuracy and $100,000 USD per year in savings
-* on-schedule completion of core product: report authoring, providing customers with custom analytics
-* resolved outstanding rest api database throttling
-* built in-house tooling to improve developer and operation experience for team
+* retrofitted existing geo-location integration for improved accuracy and $100,000 USD per year in savings
+* on-schedule completion of core product: report authoring, providing customers with custom analytics dashboards for web traffic analysis
+* built in-house tooling to improve developer and operation experience for team for SSH autocomplete and AWS Session Tokens to assume roles
+* resolved outstanding RESTful API database throttling
 
 === https://www.instacart.ca/[Instacart]
 *Platform Engineer*, January 2016 -- August 2017
 
-*Business:* Grocery eCommerce and shopping fulfillment
+*Business:* grocery eCommerce and shopping fulfillment
 
 *Environment:* Python, Flask, SQLAlchemy, Alembic, PostgreSQL, Memcached, Redis, Ansible, Vagrant
 
-* implemented rest api ecommerce features
+* implemented RESTful API ecommerce features including coupon clipping and up-sell at checkout
 * optimized offers engine and added couponing feature
 * on-call technical support for disaster recovery
 * providing hot-fix solutions to comply with service-level agreement
 * first to assess and troubleshoot issues affecting customer eCommerce experience
 * preparation and deployment of new software releases to staging and production environments
 * coordinating downtime and hardware upgrades for retailer environments
+* solved outstanding many-to-many mapping issue causing product mismatch for Lowes Foods customer
 
 <<<
 
@@ -202,10 +211,11 @@ https://www.coursera.org/account/accomplishments/verify/R5JF2BGZTM[Credential ID
 
 == Hobbies and Interests
 * Gardening and Koi Pond
-* Astronomy and Space
+* Astronomy
 * Bass and Guitar
 * Sailing
 * Brewing: beer, wine, mead, etc
 * Rock Climbing
 * Home Networking / NAS
 * Retro Computing
+* Compilers
