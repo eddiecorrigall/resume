@@ -23,8 +23,7 @@ https://github.com/eddiecorrigall[@*GitHub*]
 * automating using CloudFormation, Docker, Ansible, Python, or shell scripting
 * deploying, migrating and managing enterprise software
 * onboarding, mentoring, documenting and presenting
-* producing simple and effective solutions by acknowledging that software systems evolve
-* tailoring technology to suit the problem, rather than fitting the problem into the technology
+* focusing on simple and effective solutions
 
 [%rotate,cols="4*",frame=none,grid=rows]
 |===
