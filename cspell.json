@@ -21,6 +21,7 @@
         "Liquibase",
         "Passbolt",
         "pgmigrate",
+        "adoc",
         // jargon
         "greenlit",
         "couponing",
