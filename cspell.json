@@ -1,0 +1,44 @@
+// cSpell Settings
+{
+    "version": "0.2",
+    // language - current active spelling language
+    "language": "en",
+    // words - list of words to be always considered correct
+    "words": [
+        "mkdirp",
+        "tsmerge",
+        "githubusercontent",
+        "streetsidesoftware",
+        "vsmarketplacebadge",
+        "visualstudio",
+        // name
+        "Corrigall",
+        "Coursera",
+        // ascii doc
+        "showtitle",
+        // technology
+        "UIkit",
+        "Liquibase",
+        "Passbolt",
+        "pgmigrate",
+        // jargon
+        "greenlit",
+        "couponing",
+        // verification number
+        "R5JF2BGZTM",
+        "ANB9AQDUBZ",
+        "MEAJXDNAXQ",
+        "9JZ0Y2GCJME4QRW9"
+    ],
+    // flagWords - list of words to be always considered incorrect
+    // This is useful for offensive words and common spelling errors.
+    // For example "hte" should be "the"
+    "flagWords": [
+        "hte"
+    ],
+    "ignorePaths": [
+        "*.pdf",
+        "fonts/",
+        "themes/"
+    ]
+}
