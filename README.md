@@ -1,20 +1,20 @@
 # Resume
 
-This is where I host *[my personal resume](latest.pdf)*.
+This is where I host *[my personal resume](resume-eddie-corrigall-20231001.pdf)*.
 
 ## Generating File Formats
 
-This reads the asciidoc latest.adoc file, and generates html and pdf files.
+This reads the asciidoc *.adoc file, and generates html and pdf files.
 
-```bash
+```shell
 # Show help
 ./build.sh --help
 
 # Build resume in ALL formats
-./build.sh all latest.adoc
+./build.sh all *.adoc
 
 # Build and open pdf resume
-./build.sh pdf latest.adoc
+./build.sh pdf *.adoc
 ```
 
 ## Spell Checking
