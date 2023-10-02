@@ -81,8 +81,7 @@ https://github.com/eddiecorrigall[@*GitHub*]
 
 *Business:* financial tech focused on lending and savings account for digital assets
 
-*Environment:* MongoDB, Mongoose, TypeScript, Docker, AWS Lambda, Serverless,
-Webpack, GitHub Actions, AWS, MongoDB Atlas
+*Environment:* MongoDB, Mongoose, NodeJS, TypeScript, Docker, AWS Lambda, Serverless, Webpack, GitHub Actions, AWS, MongoDB Atlas
 
 * focused on increasing developer velocity and information security
 * automated rollout of internal password management tool (Passbolt) using Packer, Cloudformation, Elastic Load Balancer, AutoScaling Group and Route53
@@ -94,7 +93,7 @@ Webpack, GitHub Actions, AWS, MongoDB Atlas
 * investigated and mitigated database migration release issues
 * participated in long-term support planning and upgrades for NodeJS, MongoDB, CloudFormation Stack Resource Limit
 * unblocked engineering release process by splitting large AWS Cloudformation Stack managed by Serverless infrastructure tool
-* migrated frontend team CI/CD to a GitHub Actions GitFlow from CircleCI for improved workflow and cost savings
+* migrated frontend team CI/CD to a GitHub Actions Gitflow from CircleCI for improved workflow and cost savings
 
 === https://clear.co/[Clearco]
 *Senior Software Engineer*, August 2021 -- October 2022
@@ -106,10 +105,10 @@ Webpack, GitHub Actions, AWS, MongoDB Atlas
 * backend technical lead for greenlit bills service product to support founder merchant cash advance
 * bootstrapped NodeJS backend API project for engineers with team specific CI/CD workflow
 * enabled team to experiment in isolation from monolith codebase to rapidly deploy changes for the first time
-* complete migration from monolith to micro-service: codebase, source control, database and software release pipeline
-* paved the way for engineering organization to break out into micro-services by offering support with documentation, knowledge share session and playbook
+* completed migration from monolith to micro-service: codebase, source control, database and software release pipeline
+* tail-blazed path for engineering organization to break out into micro-services by offering support with documentation, knowledge share session and playbook
 * protected customers from peek traffic by building out performance + load test automation
-* successfully prevented degraded experience during Black Friday and Cyber Monday for eCommerce customers for the first time
+* prevented degraded experience during Black Friday and Cyber Monday for eCommerce customers for the first time
 
 <<<
 
@@ -161,7 +160,7 @@ Webpack, GitHub Actions, AWS, MongoDB Atlas
 * built in-house tooling to improve developer and operation experience for team for SSH autocomplete and AWS Session Tokens to assume roles
 * resolved outstanding RESTful API database throttling
 
-=== https://www.instacart.ca/[Instacart]
+=== https://www.instacart.ca/[Unata / Acquired by Instacart]
 *Platform Engineer*, January 2016 -- August 2017
 
 *Business:* grocery eCommerce and shopping fulfillment
@@ -184,38 +183,36 @@ Webpack, GitHub Actions, AWS, MongoDB Atlas
 Bachelor of Computer Science -- Honours, Co-op :: University of Waterloo +
 Waterloo, Ontario
 
-== Certifications
+=== HackerRank Certificates
+[horizontal]
+Java (Basic) Certificate 2023 :: HackerRank +
+https://www.hackerrank.com/certificates/717d4639a4d7[Verification #717d4639a4d7]
+Python (Basic) Certificate 2023 :: HackerRank +
+https://www.hackerrank.com/certificates/726081e81ce7[Verification #726081e81ce7]
+
+=== Amazon Web Services Certificates
 [horizontal]
 AWS Certified Developer -- Associate 2018 :: PSI Services LLC +
 https://aw.certmetrics.com/amazon/public/verification.aspx[License Verification #9JZ0Y2GCJME4QRW9]
 
+=== University of Maryland, College Park
 [horizontal]
-Programming Mobile Services for Android Handheld Systems -- Communication 2016 ::Coursera Course Certificates +
-https://www.coursera.org/account/accomplishments/verify/MEAJXDNAXQ[Credential ID MEAJXDNAXQ]
-
-[horizontal]
-Programming Mobile Services for Android Handheld Systems -- Part 2, 2015 :: Coursera Course Certificates +
-https://www.coursera.org/account/accomplishments/verify/ANB9AQDUBZ[Credential ID ANB9AQDUBZ]
-
-[horizontal]
-Programming Mobile Services for Android Handheld Systems -- Part 1, 2015 :: Coursera Course Certificates +
-https://www.coursera.org/account/accomplishments/verify/R5JF2BGZTM[Credential ID R5JF2BGZTM]
+Programming Mobile Services for Android Handheld Systems -- Part 1, 2015 :: Coursera +
+https://www.coursera.org/account/accomplishments/verify/R5JF2BGZTM[Verification #R5JF2BGZTM]
+Programming Mobile Services for Android Handheld Systems -- Part 2, 2015 :: Coursera +
+https://www.coursera.org/account/accomplishments/verify/ANB9AQDUBZ[Verification #ANB9AQDUBZ]
+Programming Mobile Services for Android Handheld Systems -- Communication, 2016 :: Coursera +
+https://www.coursera.org/account/accomplishments/verify/MEAJXDNAXQ[Verification #MEAJXDNAXQ]
 
 == Tech Project Highlights
-* https://github.com/eddiecorrigall/database-revisions[Agnostic Database Migration Tool]
 * https://github.com/eddiecorrigall/elang[Toy Programming Language]
 * https://github.com/dtjohnson/xlsx-populate[Microsoft Excel API for NodeJS]
 * https://github.com/eddiecorrigall/tinyurl[Tiny URL Service]
 * https://github.com/eddiecorrigall/GraphicsEngine[OpenGL Game Engine]
-* https://github.com/eddiecorrigall/awscli-ext[AWS CLI Extension - Resource Administration and Tooling]
+* https://github.com/eddiecorrigall/database-revisions[Agnostic Database Migration Tool]
 
 == Hobbies and Interests
-* Gardening and Koi Pond
-* Astronomy
-* Bass and Guitar
-* Sailing
-* Brewing: beer, wine, mead, etc
-* Rock Climbing
-* Home Networking / NAS
-* Retro Computing
-* Compilers
+* Outdoors: gardening, koi pond, astronomy
+* Computers: home networking (FreeNAS), retro computers, compilers
+* Sports: rock climbing, sailing
+* Other: music (bass, guitar, etc.), home brew (beer, wine, mead, etc.)
