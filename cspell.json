@@ -16,8 +16,12 @@
         "Corrigall",
         "Coursera",
         "Instacart",
+        "Bowes",
         // ascii doc
         "showtitle",
+        "docdir",
+        "themesdir",
+        "fontsdir",
         // technology
         "UIkit",
         "Liquibase",
@@ -32,7 +36,9 @@
         "R5JF2BGZTM",
         "ANB9AQDUBZ",
         "MEAJXDNAXQ",
-        "9JZ0Y2GCJME4QRW9"
+        "9JZ0Y2GCJME4QRW9",
+        // place
+        "Sydenham"
     ],
     // flagWords - list of words to be always considered incorrect
     // This is useful for offensive words and common spelling errors.
@@ -41,6 +47,8 @@
         "hte"
     ],
     "ignorePaths": [
+        "Gemfile",
+        "Gemfile.lock",
         "*.pdf",
         "fonts/",
         "themes/"

@@ -1,0 +1,201 @@
+:hp-tags: resume, eddie, edward, corrigall, university of waterloo, computer science, bachelor, software, developer, engineer, devops
+:published_at: 2023-10-10
+:doctype: article
+:encoding: UTF-8
+:lang: en
+
+:pdf-theme: resume
+:pdf-themesdir: {docdir}/themes
+:pdf-fontsdir: {docdir}/fonts
+
+= EDDIE CORRIGALL
+
+[%rotate,cols="1,1,1",frame=ends,grid=none]
+|===
+|🏆 Certified AWS professional
+|💾 14+ years software experience
+|⛅ 11+ years cloud experience
+|===
+
+[%rotate,cols="1,1,1",frame=ends,grid=none]
+|===
+|🎓 Computer Science (BCS)
+|🌎 Kitchener, Ontario, Canada
+|👔 https://www.linkedin.com/in/eddiecorrigall/[linkedin.com/in/eddiecorrigall]
+
+|🍁 Canadian Citizen (https://www.uscis.gov/working-in-the-united-states/temporary-workers/tn-nafta-professionals[TN Visa])
+|📧 mailto:eddiecorrigall+resume@gmail.com[eddie.corrigall@gmail.com]
+|💾 https://github.com/eddiecorrigall[github.com/eddiecorrigall]
+
+|📖 Fluent in English
+|📞 +1 (226) 606-2477
+|
+|===
+
+== 💾 SKILLS -- Software Developer
+
+[%rotate,cols="1,2,2,1",frame=ends,grid=rows]
+|===
+
+|Language
+|Java
+|JavaScript / TypeScript
+|Python
+
+|Web Framework
+|Google Web Toolkit (GWT), Spring
+|ExpressJS, NestJS, KoaJS, ReactJS
+|Flask, Jinja2
+
+|ORM
+|Hibernate
+|Mongoose, Prisma
+|SQLAlchemy
+
+|Migration Tool
+|Flywheel, Liquibase
+|Prisma
+|Alembic
+
+|Test Framework
+|Apache JMeter, JUnit, Selenium
+|Jasmine, Jest, SuperTest, Cypress
+|Unittest, PyTest, Locust
+
+|===
+
+== ⛅ SKILLS -- DevOps
+
+[%rotate,cols="1,2",frame=ends,grid=rows]
+|===
+
+|Cloud Infrastructure
+|Amazon Web Services (AWS), Google Cloud Platform (GCP)
+
+|Infrastructure as Code
+|AWS Cloudformation, HashiCorp Packer, RedHat Ansible, Serverless
+
+|CI/CD
+|GitHub Actions, Jenkins
+
+|Database
+|AWS RDS, AWS DynamoDB, AWS Redshift, ElasticSearch, Memcache, MongoDB, MySQL, PostgreSQL, Redis
+
+|Event Bus
+|AWS Kinesis, AWS SNS, AWS SQS, RabbitMQ
+
+|Developer Experience
+|Docker Desktop, Docker Compose, HashiCorp Vagrant
+
+|Observability
+|AWS CloudWatch, DataDog, New Relic
+
+|===
+
+== 👷 WORK EXPERIENCE
+
+[horizontal]
+
+https://ledn.io/[Ledn] :: *Senior DevOps Developer*, Oct 2022 -- Apr 2023, Toronto, ON +
+                          *Business:* financial tech focused on lending and savings of digital assets +
+
+* automated Apple mobile app release and certificate signing required daily
+* designed and implemented internal service to secure customer data for audit and compliance purposes
+* provisioned self-hosted password management service to secure secrets for entire company
+
+https://clear.co/[Clearco] :: *Senior Software Developer*, Aug 2021 -- Oct 2022, Toronto, ON +
+                              *Business:* b2b financial services: merchant cash advance, revenue sharing +
+
+* technical lead for current flagship product: https://clear.co/blog/power-of-installment-payment-options-to-boost-revenue/[buy now pay later (BNPL)]
+* protected eCommerce business from traffic spikes during major retail events such as Black Friday and Cyber Monday by simulating user traffic load and collecting performance analytics
+
+https://mark43.com/[Mark43] :: *Senior Software Developer*, Jul 2020 -- Aug 2021, Toronto, ON +
+                               *Business:* emergency (police, fire, and paramedic) service software as a service +
+
+* expanded business into 3 new state-level markets: California, Louisiana, and Texas
+* overhauled report export product for rapid customer on-boarding and ease of maintenance
+* alleviated search latency issues for all dispatch and record keeping users, while reducing business operation cost by 39% (2TB+)
+
+https://www.naborly.com/[Naborly] :: *Senior Software Developer*, Dec 2019 -- Jul 2020, Toronto, ON +
+                                     *Business:* tenant and landlord services +
+
+* served as interim engineering manager: led on scrum, planning, grooming, retro and one-on-one meetings
+* built office VPN to comply with Equifax service-level agreement, enabling remote work during pandemic
+* setup Looker self-serve business intelligence software to provide key insights and drive business growth
+* reduced AWS costs from $250 to $40 USD per day, or $76,650 USD per year, using tiered storage policies
+
+https://www.acquia.com/[Acquia] :: *Software Developer*, Aug 2017 -- Dec 2019, Toronto, ON +
+                                   *Business:* enterprise content-management system hosting +
+
+* reduced software release time from 180 minutes to under 50 minutes per deploy
+* built core analytic features for report authoring, providing customers with custom web traffic dashboards
+* technical lead for web frontend refactor to deliver unified web experience across company product line
+* protected cloud assets by leading security policy initiative for engineering, finance and stakeholders
+* retrofitted existing geo-location integration for improved accuracy while saving over $100,000 USD per year
+* iterated on existing event stream system design to handle 300% more user traffic
+
+https://www.instacart.ca/[Instacart] :: *Software Developer*, Jan 2016 -- Aug 2017, Toronto, ON +
+                                        *Business:* grocery eCommerce and delivery fulfillment +
+
+* renewed Lowe's Food business by solving unique many-to-many mapping issue causing product-description mismatch
+* built core eCommerce features: coupon clipping and up-sell recommendations at checkout
+* provided high-level care for large eCommerce partners, and responsible for ensuring service-level agreements
+
+<<<
+
+== 🎓 EDUCATION
+
+[horizontal]
+https://uwaterloo.ca/[University of Waterloo] ::
+*Bachelor of Computer Science* (BCS), Honours, Co-op +
+Waterloo, Ontario, Canada +
+Sep 2008 -- Jun 2014 +
+* CS488 -- Introduction to Computer Graphics
+* CS486 -- Introduction to Artificial Intelligence
+* CS484 -- Computational Vision
+* CS473 -- Medical Imaging
+* CS458 -- Computer Security and Privacy
+* CS456 -- Computer Networks
+* CS450 -- Computer Architecture
+
+https://umd.edu/[University of Maryland] ::
+*Certificate* +
+Washington, Maryland, USA +
+Nov 2015 -- Feb 2016 +
+* Programming Mobile Services for Android Handheld Systems
+** Part 1, Nov 2015 -- Coursera https://www.coursera.org/account/accomplishments/verify/R5JF2BGZTM[Verification #R5JF2BGZTM]
+** Part 2, Nov 2015 -- Coursera https://www.coursera.org/account/accomplishments/verify/ANB9AQDUBZ[Verification #ANB9AQDUBZ]
+** Communication, Feb 2016 -- Coursera https://www.coursera.org/account/accomplishments/verify/MEAJXDNAXQ[Verification #MEAJXDNAXQ]
+
+https://aws.amazon.com/certification/[Amazon Web Services] ::
+*Certificate* +
+PSI Services LLC +
+Apr 2018 -- Apr 2021 +
+* AWS Certified Developer -- Associate +
+  https://aw.certmetrics.com/amazon/public/verification.aspx[License Verification #9JZ0Y2GCJME4QRW9]
+
+<<<
+
+== 👷 WORK EXPERIENCE -- continued
+
+https://www.crunchbase.com/organization/eyereturn-marketing[EyeReturn Marketing] :: *Database Analyst*, Feb 2015 -- Dec 2015, Toronto, ON +
+                                                                                    *Business:* online marketing and advertisement
+
+https://www.ycombinator.com/companies/airo-health[AIRO Health] (Freelance) :: *Database Analyst*, Apr 2014 -- Aug 2014, Kitchener, ON +
+                                                                  *Business:* wearable health products
+
+https://www.onsemi.com/[ON Semiconductors] (Intern) :: *Software Developer*, May 2012 -- Dec 2012, Waterloo, ON +
+                                                       *Business:* digital signal processing and semiconductor device fabrication
+
+https://www.pitneybowes.com/ca/en[Pitney Bowes] (Intern) :: *Embedded Software Developer*, Sep 2011 -- Dec 2011, Shelton, CT, USA +
+                                                            *Business:* communication, encryption, commerce and cross-border shipping
+
+https://www.economical.com/en/home[Economical Insurance] (Intern) :: *Web Developer*, Jan 2011 -- Apr 2011, Waterloo, ON +
+                                                            *Web Developer*, May 2010 -- Aug 2010, Waterloo, ON +
+                                                            *Business:* personal, group, business, and farm insurance
+
+https://www.crunchbase.com/organization/tsavo[Tsavo Media] (Intern) :: *Web Developer*, Sep 2009 -- Dec 2009, Guelph, ON +
+                                                                       *Business:* online marketing and advertisement
+
+https://www.sfcsc.ca/about-us[The Rural VISIONS Centre] (Freelance) :: *Web Developer*, Jul 2007 -- Aug 2007, Sydenham, ON +
+                                                                      *Business:* community and senior support services

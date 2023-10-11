@@ -3,19 +3,29 @@
 set -e
 
 export SCRIPT="$0"
-
 export FORMAT="$1"
 export ADOC="$2"
+
+export GEM_HOME=~/.gem
 
 function usage() {
     echo "USAGE: $SCRIPT <all|html|pdf> <adoc file>"
     echo 'Supported formats: all, html, pdf'
 }
 
-function install_asciidoctor() {
-    if [ -z "$(command -v asciidoctor)" ]; then
-        brew install asciidoctor
+function install_dependencies() {
+    mkdir -p ~/.gem
+    if [[ "$(gem list -i '^asciidoctor$')" == "false" ]]; then
+        bundle install
     fi
+}
+
+function asciidoctor() {
+    bundle exec asciidoctor "$@"
+}
+
+function asciidoctor-pdf() {
+    bundle exec asciidoctor-pdf "$@"
 }
 
 function expect_adoc() {
@@ -28,24 +38,14 @@ function expect_adoc() {
 
 function generate_html() {
     expect_adoc
-    install_asciidoctor
+    install_dependencies
     asciidoctor "$ADOC"
-}
-
-function install_asciidoctor_pdf() {
-    if [ -z "$(command -v asciidoctor-pdf)" ]; then
-        gem install asciidoctor-pdf
-    fi
 }
 
 function generate_pdf() {
     expect_adoc
-    install_asciidoctor
-    asciidoctor-pdf \
-        -a pdf-stylesdir=themes \
-        -a pdf-style=resume \
-        -a pdf-fontsdir=fonts \
-            "$ADOC"
+    install_dependencies
+    asciidoctor-pdf --trace "$ADOC"
 }
 
 case "$FORMAT" in
