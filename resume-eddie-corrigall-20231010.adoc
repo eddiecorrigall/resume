@@ -17,7 +17,7 @@
 |⛅ 11+ years cloud experience
 |===
 
-[%rotate,cols="1,1,1",frame=ends,grid=none]
+[%rotate,cols="1,1,1",frame=none,grid=none]
 |===
 |🎓 Computer Science (BCS)
 |🌎 Kitchener, Ontario, Canada
@@ -34,7 +34,7 @@
 
 == 💾 SKILLS -- Software Developer
 
-[%rotate,cols="1,2,2,1",frame=ends,grid=rows]
+[%rotate,cols="1,2,2,1",frame=none,grid=rows]
 |===
 
 |Language
@@ -60,13 +60,13 @@
 |Test Framework
 |Apache JMeter, JUnit, Selenium
 |Jasmine, Jest, SuperTest, Cypress
-|Unittest, PyTest, Locust
+|Unittest, PyTest
 
 |===
 
 == ⛅ SKILLS -- DevOps
 
-[%rotate,cols="1,2",frame=ends,grid=rows]
+[%rotate,cols="1,3",frame=none,grid=rows]
 |===
 
 |Cloud Infrastructure
@@ -79,7 +79,7 @@
 |GitHub Actions, Jenkins
 
 |Database
-|AWS RDS, AWS DynamoDB, AWS Redshift, ElasticSearch, Memcache, MongoDB, MySQL, PostgreSQL, Redis
+|AWS DynamoDB, AWS Redshift, ElasticSearch, MySQL, MongoDB, PostgreSQL, Redis
 
 |Event Bus
 |AWS Kinesis, AWS SNS, AWS SQS, RabbitMQ
@@ -94,54 +94,74 @@
 
 == 👷 WORK EXPERIENCE
 
-[horizontal]
-
-https://ledn.io/[Ledn] :: *Senior DevOps Developer*, Oct 2022 -- Apr 2023, Toronto, ON +
-                          *Business:* financial tech focused on lending and savings of digital assets +
+[cols="1,2,1",frame=none,grid=none]
+|===
+ .>|[lead]#https://ledn.io/[Ledn]#
+ .>|Toronto, ON • Senior DevOps Developer
+>.>|Oct 2022 -- Apr 2023
+|===
 
 * automated Apple mobile app release and certificate signing required daily
-* designed and implemented internal service to secure customer data for audit and compliance purposes
-* provisioned self-hosted password management service to secure secrets for entire company
+* designed one-way upload internal service to secure customer data for compliance and external audit
+* assembled internal Passbolt password management service to be used by entire company
 
-https://clear.co/[Clearco] :: *Senior Software Developer*, Aug 2021 -- Oct 2022, Toronto, ON +
-                              *Business:* b2b financial services: merchant cash advance, revenue sharing +
+[cols="1,2,1",frame=none,grid=none]
+|===
+ .>|[lead]#https://clear.co/[Clearco]#
+ .>|Toronto, ON • Senior Software Developer
+>.>|Aug 2021 -- Oct 2022
+|===
 
-* technical lead for current flagship product: https://clear.co/blog/power-of-installment-payment-options-to-boost-revenue/[buy now pay later (BNPL)]
-* protected eCommerce business from traffic spikes during major retail events such as Black Friday and Cyber Monday by simulating user traffic load and collecting performance analytics
+* technical lead for flagship product: https://clear.co/blog/power-of-installment-payment-options-to-boost-revenue/[buy now pay later (BNPL)]
+* simulated site traffic, identified system vulnerabilities and arranged for capacity planning
+* protected eCommerce customers from site outage during business-critical holiday shopping events
 
-https://mark43.com/[Mark43] :: *Senior Software Developer*, Jul 2020 -- Aug 2021, Toronto, ON +
-                               *Business:* emergency (police, fire, and paramedic) service software as a service +
+[cols="1,2,1",frame=none,grid=none]
+|===
+ .>|[lead]#https://mark43.com/[Mark43]#
+ .>|Toronto, ON • Senior Software Developer
+>.>|Jul 2020 -- Aug 2021
+|===
 
-* expanded business into 3 new state-level markets: California, Louisiana, and Texas
-* overhauled report export product for rapid customer on-boarding and ease of maintenance
-* alleviated search latency issues for all dispatch and record keeping users, while reducing business operation cost by 39% (2TB+)
+* boosted search response time for all emergency dispatchers while reducing storage capacity by 2TB+
+* implemented CA, LA, TX unified crime reporting (https://ucr.fbi.gov/nibrs/nibrs_dcguide.pdf[UCR]) standards to expand business into 3 US states
+* overhauled report export for rapid customer on-boarding and ease of maintenance
 
-https://www.naborly.com/[Naborly] :: *Senior Software Developer*, Dec 2019 -- Jul 2020, Toronto, ON +
-                                     *Business:* tenant and landlord services +
+[cols="1,2,1",frame=none,grid=none]
+|===
+ .>|[lead]#https://www.naborly.com/[Naborly]#
+ .>|Toronto, ON • Senior Software Developer
+>.>|Dec 2019 -- Jul 2020
+|===
 
-* served as interim engineering manager: led on scrum, planning, grooming, retro and one-on-one meetings
-* built office VPN to comply with Equifax service-level agreement, enabling remote work during pandemic
-* setup Looker self-serve business intelligence software to provide key insights and drive business growth
-* reduced AWS costs from $250 to $40 USD per day, or $76,650 USD per year, using tiered storage policies
+* served as interim engineering manager: ran scrum, planning, grooming, retro and one-on-one
+* completed Equifax office VPN Access Controls Standards, authorizing remote work during pandemic
+* assembled Looker business intelligence solution to help acquire key insights and drive growth
 
-https://www.acquia.com/[Acquia] :: *Software Developer*, Aug 2017 -- Dec 2019, Toronto, ON +
-                                   *Business:* enterprise content-management system hosting +
+[cols="1,2,1",frame=none,grid=none]
+|===
+ .>|[lead]#https://www.acquia.com/[Acquia]#
+ .>|Toronto, ON • Software Developer
+>.>|Aug 2017 -- Dec 2019
+|===
 
-* reduced software release time from 180 minutes to under 50 minutes per deploy
-* built core analytic features for report authoring, providing customers with custom web traffic dashboards
-* technical lead for web frontend refactor to deliver unified web experience across company product line
+* frontend technical lead to deliver unified web experience across company product line
+* increased software development velocity by eliminating 2 hours of release time per deploy
+
 * protected cloud assets by leading security policy initiative for engineering, finance and stakeholders
-* retrofitted existing geo-location integration for improved accuracy while saving over $100,000 USD per year
-* iterated on existing event stream system design to handle 300% more user traffic
+* retrofitted geo-location integration for improved accuracy while saving over $100,000 USD per year
+* iterated on event stream system design to handle 300% more user traffic
 
-https://www.instacart.ca/[Instacart] :: *Software Developer*, Jan 2016 -- Aug 2017, Toronto, ON +
-                                        *Business:* grocery eCommerce and delivery fulfillment +
+[cols="1,2,1",frame=none,grid=none]
+|===
+ .>|[lead]#https://www.instacart.ca/[Instacart]#
+ .>|Toronto, ON • Software Developer
+>.>|Jan 2016 -- Aug 2017
+|===
 
-* renewed Lowe's Food business by solving unique many-to-many mapping issue causing product-description mismatch
+* renewed Lowe's Food contract by solving product-description mismatch Graph Theory problem
 * built core eCommerce features: coupon clipping and up-sell recommendations at checkout
-* provided high-level care for large eCommerce partners, and responsible for ensuring service-level agreements
-
-<<<
+* delivered high-level care to eCommerce partners and ensured all service-level agreements
 
 == 🎓 EDUCATION
 
@@ -178,24 +198,25 @@ Apr 2018 -- Apr 2021 +
 
 == 👷 WORK EXPERIENCE -- continued
 
-https://www.crunchbase.com/organization/eyereturn-marketing[EyeReturn Marketing] :: *Database Analyst*, Feb 2015 -- Dec 2015, Toronto, ON +
-                                                                                    *Business:* online marketing and advertisement
+[horizontal]
+https://www.crunchbase.com/organization/eyereturn-marketing[EyeReturn Marketing] ::
+Toronto, ON • *Database Analyst* • Feb 2015 -- Dec 2015
 
-https://www.ycombinator.com/companies/airo-health[AIRO Health] (Freelance) :: *Database Analyst*, Apr 2014 -- Aug 2014, Kitchener, ON +
-                                                                  *Business:* wearable health products
+https://www.ycombinator.com/companies/airo-health[AIRO Health] ::
+Kitchener, ON • *Database Analyst* • Apr 2014 -- Aug 2014
 
-https://www.onsemi.com/[ON Semiconductors] (Intern) :: *Software Developer*, May 2012 -- Dec 2012, Waterloo, ON +
-                                                       *Business:* digital signal processing and semiconductor device fabrication
+https://www.onsemi.com/[ON Semiconductors] ::
+Waterloo, ON • *Software Developer* • May 2012 -- Dec 2012
 
-https://www.pitneybowes.com/ca/en[Pitney Bowes] (Intern) :: *Embedded Software Developer*, Sep 2011 -- Dec 2011, Shelton, CT, USA +
-                                                            *Business:* communication, encryption, commerce and cross-border shipping
+https://www.pitneybowes.com/ca/en[Pitney Bowes] ::
+Shelton, CT, USA • *Embedded Developer* • Sep 2011 -- Dec 2011
 
-https://www.economical.com/en/home[Economical Insurance] (Intern) :: *Web Developer*, Jan 2011 -- Apr 2011, Waterloo, ON +
-                                                            *Web Developer*, May 2010 -- Aug 2010, Waterloo, ON +
-                                                            *Business:* personal, group, business, and farm insurance
+https://www.economical.com/en/home[Economical Insurance] ::
+Waterloo, ON • *Web Developer* • Jan 2011 -- Apr 2011 +
+Waterloo, ON • *Web Developer* • May 2010 -- Aug 2010
 
-https://www.crunchbase.com/organization/tsavo[Tsavo Media] (Intern) :: *Web Developer*, Sep 2009 -- Dec 2009, Guelph, ON +
-                                                                       *Business:* online marketing and advertisement
+https://www.crunchbase.com/organization/tsavo[Tsavo Media] ::
+Guelph, ON • *Web Developer* • Sep 2009 -- Dec 2009
 
-https://www.sfcsc.ca/about-us[The Rural VISIONS Centre] (Freelance) :: *Web Developer*, Jul 2007 -- Aug 2007, Sydenham, ON +
-                                                                      *Business:* community and senior support services
+https://www.sfcsc.ca/about-us[The Rural VISIONS Centre] ::
+Sydenham, ON • *Web Developer* • Jul 2007 -- Aug 2007
