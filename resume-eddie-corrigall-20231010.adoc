@@ -158,7 +158,7 @@
 >.>|Jan 2016 -- Aug 2017
 |===
 
-* renewed Lowe's Food contract by solving product-description mismatch Graph Theory problem
+* renewed Lowe's Food contract by applying https://en.wikipedia.org/wiki/Strongly_connected_component[Graph Theory] to product-description mismatch problem
 * built core eCommerce features: coupon clipping and up-sell recommendations at checkout
 * delivered high-level care to eCommerce partners and ensured all service-level agreements
 
