@@ -145,9 +145,8 @@
 >.>|Aug 2017 -- Dec 2019
 |===
 
-* frontend technical lead to deliver unified web experience across company product line
+* frontend technical lead to help deliver unified web experience across company product line
 * increased software development velocity by eliminating 2 hours of release time per deploy
-
 * protected cloud assets by leading security policy initiative for engineering, finance and stakeholders
 * retrofitted geo-location integration for improved accuracy while saving over $100,000 USD per year
 * iterated on event stream system design to handle 300% more user traffic
