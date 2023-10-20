@@ -97,7 +97,7 @@
 [cols="1,2,1",frame=none,grid=none]
 |===
  .>|[lead]#https://ledn.io/[Ledn]#
- .>|Toronto, ON • Senior DevOps Developer
+ .>|Toronto, ON • Senior DevOps Engineer
 >.>|Oct 2022 -- Apr 2023
 |===
 
@@ -108,7 +108,7 @@
 [cols="1,2,1",frame=none,grid=none]
 |===
  .>|[lead]#https://clear.co/[Clearco]#
- .>|Toronto, ON • Senior Software Developer
+ .>|Toronto, ON • Senior Software Engineer
 >.>|Aug 2021 -- Oct 2022
 |===
 
@@ -119,7 +119,7 @@
 [cols="1,2,1",frame=none,grid=none]
 |===
  .>|[lead]#https://mark43.com/[Mark43]#
- .>|Toronto, ON • Senior Software Developer
+ .>|Toronto, ON • Senior Software Engineer
 >.>|Jul 2020 -- Aug 2021
 |===
 
@@ -130,7 +130,7 @@
 [cols="1,2,1",frame=none,grid=none]
 |===
  .>|[lead]#https://www.naborly.com/[Naborly]#
- .>|Toronto, ON • Senior Software Developer
+ .>|Toronto, ON • Senior Software Engineer
 >.>|Dec 2019 -- Jul 2020
 |===
 
@@ -141,7 +141,7 @@
 [cols="1,2,1",frame=none,grid=none]
 |===
  .>|[lead]#https://www.acquia.com/[Acquia]#
- .>|Toronto, ON • Software Developer
+ .>|Toronto, ON • Software Engineer
 >.>|Aug 2017 -- Dec 2019
 |===
 
@@ -154,7 +154,7 @@
 [cols="1,2,1",frame=none,grid=none]
 |===
  .>|[lead]#https://www.instacart.ca/[Instacart]#
- .>|Toronto, ON • Software Developer
+ .>|Toronto, ON • Software Engineer
 >.>|Jan 2016 -- Aug 2017
 |===
 
