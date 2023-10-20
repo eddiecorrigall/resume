@@ -19,7 +19,7 @@
 
 [%rotate,cols="1,1,1",frame=none,grid=none]
 |===
-|🎓 Computer Science (BCS)
+|🎓 Bachelor of Computer Science
 |🌎 Kitchener, Ontario, Canada
 |👔 https://www.linkedin.com/in/eddiecorrigall/[linkedin.com/in/eddiecorrigall]
 
@@ -167,7 +167,7 @@
 [horizontal]
 https://uwaterloo.ca/[University of Waterloo] ::
 *Bachelor of Computer Science* (BCS), Honours, Co-op +
-Waterloo, Ontario, Canada +
+Math Department, Waterloo, Ontario, Canada +
 Sep 2008 -- Jun 2014 +
 * CS488 -- Introduction to Computer Graphics
 * CS486 -- Introduction to Artificial Intelligence
