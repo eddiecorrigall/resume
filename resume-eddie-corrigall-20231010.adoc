@@ -14,7 +14,7 @@
 |===
 |🏆 Certified AWS professional
 |💾 14+ years software experience
-|⛅ 11+ years cloud experience
+|⛅ 6+ years cloud experience
 |===
 
 [%rotate,cols="1,1,1",frame=none,grid=none]
