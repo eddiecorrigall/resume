@@ -24,7 +24,7 @@
 |👔 https://www.linkedin.com/in/eddiecorrigall/[linkedin.com/in/eddiecorrigall]
 
 |🍁 Canadian Citizen (https://www.uscis.gov/working-in-the-united-states/temporary-workers/tn-nafta-professionals[TN Visa])
-|📧 mailto:eddiecorrigall+resume@gmail.com[eddie.corrigall@gmail.com]
+|📧 mailto:eddiecorrigall+resume@gmail.com[eddiecorrigall@gmail.com]
 |💾 https://github.com/eddiecorrigall[github.com/eddiecorrigall]
 
 |📖 Fluent in English
@@ -92,6 +92,23 @@
 
 |===
 
+== 📢 SKILLS -- Communication
+- onboarding, mentoring, documenting and presenting
+- fostering a collaborative and knowledge-sharing environment within the team
+
+== 📅 SKILLS -- Organization
+- applying agile methodology for effective meeting and task planning
+- planning long term objectives and working with cross-functional teams to accomplish goals
+- evaluating trade-offs and removing project blockers
+
+== 💻 SKILLS -- Technical
+- designing and automating scalable infrastructure, software and productivity tooling
+- deploying, migrating and managing enterprise software
+- scaling existing products, performance tuning application and infrastructure
+- root-cause analysis and troubleshooting end user experience woes
+
+<<<
+
 == 👷 WORK EXPERIENCE
 
 [cols="1,2,1",frame=none,grid=none]
@@ -103,7 +120,7 @@
 
 * automated Apple mobile app release and certificate signing required daily
 * designed one-way upload internal service to secure customer data for compliance and external audit
-* assembled internal Passbolt password management service to be used by entire company
+* assembled internal Passbolt password management service used by entire company
 
 [cols="1,2,1",frame=none,grid=none]
 |===
@@ -153,7 +170,7 @@
 
 [cols="1,2,1",frame=none,grid=none]
 |===
- .>|[lead]#https://www.instacart.ca/[Instacart]#
+ .>|[lead]#https://www.instacart.ca/[Unata // Instacart]#
  .>|Toronto, ON • Software Engineer
 >.>|Jan 2016 -- Aug 2017
 |===
@@ -161,6 +178,8 @@
 * renewed Lowe's Food contract by applying https://en.wikipedia.org/wiki/Strongly_connected_component[Graph Theory] to product-description mismatch problem
 * built core eCommerce features: coupon clipping and up-sell recommendations at checkout
 * delivered high-level care to eCommerce partners and ensured all service-level agreements
+
+<<<
 
 == 🎓 EDUCATION
 
@@ -192,30 +211,3 @@ PSI Services LLC +
 Apr 2018 -- Apr 2021 +
 * AWS Certified Developer -- Associate +
   https://aw.certmetrics.com/amazon/public/verification.aspx[License Verification #9JZ0Y2GCJME4QRW9]
-
-<<<
-
-== 👷 WORK EXPERIENCE -- continued
-
-[horizontal]
-https://www.crunchbase.com/organization/eyereturn-marketing[EyeReturn Marketing] ::
-Toronto, ON • *Database Analyst* • Feb 2015 -- Dec 2015
-
-https://www.ycombinator.com/companies/airo-health[AIRO Health] ::
-Kitchener, ON • *Database Analyst* • Apr 2014 -- Aug 2014
-
-https://www.onsemi.com/[ON Semiconductors] ::
-Waterloo, ON • *Software Developer* • May 2012 -- Dec 2012
-
-https://www.pitneybowes.com/ca/en[Pitney Bowes] ::
-Shelton, CT, USA • *Embedded Developer* • Sep 2011 -- Dec 2011
-
-https://www.economical.com/en/home[Economical Insurance] ::
-Waterloo, ON • *Web Developer* • Jan 2011 -- Apr 2011 +
-Waterloo, ON • *Web Developer* • May 2010 -- Aug 2010
-
-https://www.crunchbase.com/organization/tsavo[Tsavo Media] ::
-Guelph, ON • *Web Developer* • Sep 2009 -- Dec 2009
-
-https://www.sfcsc.ca/about-us[The Rural VISIONS Centre] ::
-Sydenham, ON • *Web Developer* • Jul 2007 -- Aug 2007
