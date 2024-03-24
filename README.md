@@ -1,6 +1,6 @@
 # Resume
 
-This is where I host *[my personal resume](resume-eddie-corrigall-20231010.pdf)*.
+This is where I host *[my personal resume](resume-eddie-corrigall-20240324.pdf)*.
 
 ## Generating File Formats
 
