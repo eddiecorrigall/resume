@@ -34,33 +34,38 @@
 
 == 💾 SKILLS -- Software Developer
 
-[%rotate,cols="1,2,2,1",frame=none,grid=rows]
+[%rotate,cols="1,1,2,1,1",frame=none,grid=rows]
 |===
 
 |Language
 |Java
 |JavaScript / TypeScript
 |Python
+|Go
 
 |Web Framework
 |Google Web Toolkit (GWT), Spring
-|ExpressJS, NestJS, KoaJS, ReactJS
+|ExpressJS, NestJS, ReactJS, VueJS, Nuxt3
 |Flask, Jinja2
+|go-chi/chi
 
-|ORM
+|ORM / DAO
 |Hibernate
 |Mongoose, Prisma
 |SQLAlchemy
+|database/sql
 
 |Migration Tool
 |Flywheel, Liquibase
 |Prisma
 |Alembic
+|golang-migrate/migrate
 
 |Test Framework
-|Apache JMeter, JUnit, Selenium
+|JMeter, JUnit, Selenium
 |Jasmine, Jest, SuperTest, Cypress
 |Unittest, PyTest
+|stretchr/testify, pprof
 
 |===
 
@@ -73,10 +78,10 @@
 |Amazon Web Services (AWS), Google Cloud Platform (GCP)
 
 |Infrastructure as Code
-|AWS Cloudformation, HashiCorp Packer, RedHat Ansible, Serverless
+|AWS Cloudformation, HashiCorp Terraform + Packer, RedHat Ansible, Serverless
 
 |CI/CD
-|GitHub Actions, Jenkins
+|GitHub Actions, GitLab CI/CD Pipelines, Jenkins
 
 |Database
 |AWS DynamoDB, AWS Redshift, ElasticSearch, MySQL, MongoDB, PostgreSQL, Redis
@@ -113,6 +118,17 @@
 
 [cols="1,2,1",frame=none,grid=none]
 |===
+ .>|[lead]#https://login.io/[LoginID]#
+ .>|Toronto, ON • Senior Software Engineer
+>.>|Dec 2023 -- Mar 2024
+|===
+
+* readied pre-launch product offering with JMeter performance testing and pprof Go profiler
+* developed WordPress plugin with password-less login via Apple TouchID, Microsoft Entra ID, etc.
+* migrated public website to Nuxt3 and hosting solution using AWS S3, CloudFront and Rout53
+
+[cols="1,2,1",frame=none,grid=none]
+|===
  .>|[lead]#https://ledn.io/[Ledn]#
  .>|Toronto, ON • Senior DevOps Engineer
 >.>|Oct 2022 -- Apr 2023
@@ -142,7 +158,7 @@
 
 * boosted search response time for all emergency dispatchers while reducing storage capacity by 2TB+
 * implemented CA, LA, TX unified crime reporting (https://ucr.fbi.gov/nibrs/nibrs_dcguide.pdf[UCR]) standards to expand business into 3 US states
-* overhauled report export for rapid customer on-boarding and ease of maintenance
+* architected report export codebase for rapid customer on-boarding and ease of maintenance
 
 [cols="1,2,1",frame=none,grid=none]
 |===
@@ -165,7 +181,7 @@
 * frontend technical lead to help deliver unified web experience across company product line
 * increased software development velocity by eliminating 2 hours of release time per deploy
 * protected cloud assets by leading security policy initiative for engineering, finance and stakeholders
-* retrofitted geo-location integration for improved accuracy while saving over $100,000 USD per year
+* pivoted geo-location integration for improved accuracy while saving over $100,000 USD per year
 * iterated on event stream system design to handle 300% more user traffic
 
 [cols="1,2,1",frame=none,grid=none]
