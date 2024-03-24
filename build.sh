@@ -3,8 +3,12 @@
 set -e
 
 export SCRIPT="$0"
+
 export FORMAT="$1"
+FORMAT="${FORMAT:-all}"
+
 export ADOC="$2"
+ADOC="${ADOC:-*.adoc}"
 
 export GEM_HOME=~/.gem
 
@@ -50,16 +54,14 @@ function generate_pdf() {
 
 case "$FORMAT" in
     html|HTML)
-        time generate_html
+        generate_html
         ;;
     pdf|PDF)
-        time generate_pdf
+        generate_pdf
         ;;
     all|ALL)
-        time (
-            generate_html
-            generate_pdf
-        )
+        generate_html
+        generate_pdf
         ;;
     -h|--help)
         usage
@@ -71,3 +73,4 @@ case "$FORMAT" in
         ;;
 esac
 
+echo 'done!'
