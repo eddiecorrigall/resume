@@ -1,5 +1,5 @@
 :hp-tags: resume, eddie, edward, corrigall, university of waterloo, computer science, bachelor, software, developer, engineer, devops
-:published_at: 2023-10-10
+:published_at: 2024-03-24
 :doctype: article
 :encoding: UTF-8
 :lang: en
