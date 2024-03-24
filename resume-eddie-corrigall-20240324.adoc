@@ -34,38 +34,38 @@
 
 == 💾 SKILLS -- Software Developer
 
-[%rotate,cols="1,1,2,1,1",frame=none,grid=rows]
+[cols="1,2,1,1,2",frame=none,grid=rows]
 |===
 
 |Language
-|Java
-|JavaScript / TypeScript
-|Python
-|Go
-
 |Web Framework
-|Google Web Toolkit (GWT), Spring
-|ExpressJS, NestJS, ReactJS, VueJS, Nuxt3
-|Flask, Jinja2
-|go-chi/chi
-
 |ORM / DAO
-|Hibernate
-|Mongoose, Prisma
-|SQLAlchemy
-|database/sql
-
 |Migration Tool
-|Flywheel, Liquibase
-|Prisma
-|Alembic
-|golang-migrate/migrate
-
 |Test Framework
+
+|Java
+|Google Web Toolkit (GWT), Spring
+|Hibernate
+|Flywheel, Liquibase
 |JMeter, JUnit, Selenium
+
+|JavaScript / TypeScript
+|ExpressJS, NestJS, ReactJS, VueJS, Nuxt3
+|Mongoose
+|Prisma
 |Jasmine, Jest, SuperTest, Cypress
+
+|Python
+|Flask, Jinja2
+|SQLAlchemy
+|Alembic
 |Unittest, PyTest
-|stretchr/testify, pprof
+
+|Go
+|go-chi/chi
+|database/sql
+|golang-migrate
+|testify, pprof
 
 |===
 
