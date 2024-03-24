@@ -6,39 +6,38 @@
     "language": "en",
     // words - list of words to be always considered correct
     "words": [
-        "mkdirp",
-        "tsmerge",
-        "githubusercontent",
-        "streetsidesoftware",
-        "vsmarketplacebadge",
-        "visualstudio",
-        // name
-        "Corrigall",
-        "Coursera",
-        "Instacart",
+        "9JZ0Y2GCJME4QRW9",
+        "adoc",
+        "ANB9AQDUBZ",
+        "BNPL",
         "Bowes",
-        // ascii doc
-        "showtitle",
+        "Corrigall",
+        "couponing",
+        "Coursera",
         "docdir",
-        "themesdir",
+        "Entra",
         "fontsdir",
-        // technology
-        "UIkit",
+        "Gitflow",
+        "githubusercontent",
+        "greenlit",
+        "Instacart",
         "Liquibase",
+        "MEAJXDNAXQ",
+        "mkdirp",
+        "Nuxt",
         "Passbolt",
         "pgmigrate",
-        "adoc",
-        // jargon
-        "greenlit",
-        "couponing",
-        "Gitflow",
-        // verification number
+        "pprof",
         "R5JF2BGZTM",
-        "ANB9AQDUBZ",
-        "MEAJXDNAXQ",
-        "9JZ0Y2GCJME4QRW9",
-        // place
-        "Sydenham"
+        "showtitle",
+        "streetsidesoftware",
+        "stretchr",
+        "Sydenham",
+        "themesdir",
+        "tsmerge",
+        "UIkit",
+        "visualstudio",
+        "vsmarketplacebadge"
     ],
     // flagWords - list of words to be always considered incorrect
     // This is useful for offensive words and common spelling errors.
