@@ -40,6 +40,10 @@ function expect_adoc() {
     fi
 }
 
+function check_spelling() {
+    npx cspell *.adoc
+}
+
 function generate_html() {
     expect_adoc
     install_dependencies
@@ -54,12 +58,15 @@ function generate_pdf() {
 
 case "$FORMAT" in
     html|HTML)
+        check_spelling
         generate_html
         ;;
     pdf|PDF)
+        check_spelling
         generate_pdf
         ;;
     all|ALL)
+        check_spelling
         generate_html
         generate_pdf
         ;;
