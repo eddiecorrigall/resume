@@ -13,8 +13,8 @@
 [%rotate,cols="1,1,1",frame=ends,grid=none]
 |===
 |🏆 Certified AWS professional
-|💾 14+ years software experience
-|⛅ 6+ years cloud experience
+|💾 10+ years software experience
+|⛅ 5+ years cloud experience
 |===
 
 [%rotate,cols="1,1,1",frame=none,grid=none]
@@ -124,7 +124,7 @@
 |===
 
 * readied pre-launch product offering with JMeter performance testing and pprof Go profiler
-* developed WordPress plugin with password-less login via Apple TouchID, Microsoft Entra ID, etc.
+* developed WordPress plugin for password-less login via Apple TouchID, Microsoft Entra ID, etc.
 * migrated public website to Nuxt3 and hosting solution using AWS S3, CloudFront and Rout53
 
 [cols="1,2,1",frame=none,grid=none]
@@ -135,8 +135,8 @@
 |===
 
 * automated Apple mobile app release and certificate signing required daily
-* designed one-way upload internal service to secure customer data for compliance and external audit
-* assembled internal Passbolt password management service used by entire company
+* assembled one-way upload internal service to secure customer data for compliance and external audit
+* deployed internal Passbolt password management service used by entire company
 
 [cols="1,2,1",frame=none,grid=none]
 |===
