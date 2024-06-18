@@ -118,12 +118,12 @@
 
 [cols="1,2,1",frame=none,grid=none]
 |===
- .>|[lead]#https://eddiecorrigall.github.io/home[Home Renovations]#
+ .>|[lead]#https://eddiecorrigall.github.io/home[Household Renovations]#
  .>|Kitchener, ON • Self-employed
 >.>|Mar 2023 -- June 2024
 |===
 
-- developed home improvement skill set: drywall, painting, plumbing, electrical, etc.
+- developed home improvement skill set: completed trades course on drywall, painting, plumbing, electrical, etc.
 - renovated kitchen in 8 days - new floors, new cabinets, and moved drain
 - upgraded home energy efficiency with spray foam attic insulation, new doors and windows
 - finished basement - electrical panel work, plumbing, drywall, and gas line
